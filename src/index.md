@@ -1,7 +1,1 @@
----
-title: "Welcome to NimriSite"
-layout: "layout.njk"
----
-
-# Hello, world! 🚀  
-This is a test page using Eleventy.
+# David Theodor Nimrichtr, Arnošt Matěj Nimrichtr
