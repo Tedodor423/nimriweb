@@ -1,0 +1,1 @@
+sudo certbot --nginx -d t.nimrichtr.cz -d theo.nimrichtr.cz -d davidtheodor.nimrichtr.cz -d a.nimrichtr.cz -d arnost.nimrichtr.cz -d arnostmatej.nimrichtr.cz -d nimrichtr.cz -d www.nimrichtr.cz
