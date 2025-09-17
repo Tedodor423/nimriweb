@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{{ title }}</title>
+    
+    {% if description %}
+    <meta name="description" content="{{ description }}">
+    {% else %}
+      {% if '/theo/' in page.url %}
+        <meta name="description" content="Personal site of David Theodor Nimrichtr.">
+        <meta property="og:description" content="Personal site of David Theodor Nimrichtr." />
+        <meta name="theme-color" content="#002147" />
+      {% elif '/arnost/' in page.url %}
+        <meta name="description" content="Personal site of Arnošt Matěj Nimrichtr.">
+        <meta property="og:description" content="Personal site of Arnošt Matěj Nimrichtr." />
+        <meta name="theme-color" content="#CE2D4F" />
+      {% else %}
+        <meta name="description" content="Personal site of David Theodor and Arnošt Matěj Nimrichtr.">
+        <meta property="og:description" content="Personal site of David Theodor Nimrichtr and Arnošt Matěj Nimrichtr." />
+        <meta name="theme-color" content="#002147" />
+      {% endif %}
+    {% endif %}
+    
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:image" content="/assets/identity/summary.png" />
+    <meta property="og:url" content="{{ url | default('https://nimrichtr.cz') }}" />
+    
+
+    <link rel="icon" href="/assets/identity/favicon.ico" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    {% block styles %}{% endblock %}
+    <script>
+
+    </script>
+    {% block head %}{% endblock %}
+  </head>
+  <body>
+    {% block content %}{% endblock %}
+  </body>
+</html>
