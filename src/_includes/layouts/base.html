@@ -23,14 +23,18 @@
         <meta name="theme-color" content="#002147" />
       {% endif %}
     {% endif %}
-    
     <meta property="og:title" content="{{ title }}" />
-    <meta property="og:image" content="/assets/identity/summary.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://nimrichtr.cz/assets/identity/summary.png" />
+    <link rel="canonical" href="{{ url | default('https://nimrichtr.cz') }}" />
     <meta property="og:url" content="{{ url | default('https://nimrichtr.cz') }}" />
+  
+    <link rel="icon" href="https://nimrichtr.cz/assets/identity/favicon.ico" />
     
-
-    <link rel="icon" href="/assets/identity/favicon.ico" />
-    <link rel="stylesheet" href="/assets/main.css" />
+    
+    <link rel="stylesheet" href="fonts/fonts.css?{{ assetHash }}" onload="this.media='all'" /> <!--https://nimrichtr.cz/-->
+    <style>{% include "css/base.css" %}</style>
+    
     {% block styles %}{% endblock %}
     <script>
 

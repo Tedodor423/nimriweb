@@ -1,0 +1,14 @@
+@use 'reset';
+@use 'defaults' as *;
+
+
+html, body {
+	font-family: $font-family-base;
+	overflow-x: hidden;
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+

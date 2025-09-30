@@ -1,7 +1,29 @@
-{% extends "layouts/base.html" %} 
+{% extends "layouts/base.html" %}
+
+
+{% block styles %}
+	<link rel="stylesheet" href="css/home.css" /> <!--https://nimrichtr.cz/-->
+{% endblock %}
+
 {% block content %}
-  <article>
-    <h1>{{ title }}</h1>
-    {{ content | safe }}
-  </article>
+<div class="split-view">
+	<section class="split left">
+		<a href="{{ arnost.link }}" class="fill-link">
+			<div class="content">
+				<span>&lt;- Continue to site</span>
+				<p>{{ arnost.description }}</p>
+				<h1>{{ arnost.name | safe}}</h1>
+			</div>
+		</a>
+	</section>
+	<section class="split right">
+		<a href="{{ theo.link }}" class="fill-link">
+			<div class="content">
+				<h1>{{ theo.name | safe}}</h1>
+				<p>{{ theo.description }}</p>
+				<span>Continue to site -&gt;</span>
+			</div>
+		</a>
+	</section>
+</div>
 {% endblock %}
