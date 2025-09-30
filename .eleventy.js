@@ -1,5 +1,5 @@
 require('dotenv').config();
-const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
+// const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 //const matter = require('gray-matter');
 //const markdownIt = require('markdown-it');
 
@@ -15,10 +15,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/_includes/fonts": "fonts"});
 
 
-  // Returns work items, sorted by display order
-  eleventyConfig.addCollection('work', (collection) => {
-    return sortByDisplayOrder(collection.getFilteredByGlob('./src/work/*.md'));
-  });
+  // // Returns work items, sorted by display order
+  // eleventyConfig.addCollection('work', (collection) => {
+  //   return sortByDisplayOrder(collection.getFilteredByGlob('./src/work/*.md'));
+  // });
 
 
   // // Slots parser
