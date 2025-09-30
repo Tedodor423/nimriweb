@@ -10,12 +10,12 @@
     <meta name="description" content="{{ description }}">
     {% else %}
       {% if '/theo/' in page.url %}
-        <meta name="description" content="Personal site of David Theodor Nimrichtr.">
-        <meta property="og:description" content="Personal site of David Theodor Nimrichtr." />
+        <meta name="description" content="{{ site.theo.description }}">
+        <meta property="og:description" content="{{ site.theo.description }}" />
         <meta name="theme-color" content="#002147" />
       {% elif '/arnost/' in page.url %}
-        <meta name="description" content="Personal site of Arnošt Matěj Nimrichtr.">
-        <meta property="og:description" content="Personal site of Arnošt Matěj Nimrichtr." />
+        <meta name="description" content="{{ site.arnost.description }}">
+        <meta property="og:description" content="{{ site.arnost.description }}" />
         <meta name="theme-color" content="#CE2D4F" />
       {% else %}
         <meta name="description" content="Personal site of David Theodor and Arnošt Matěj Nimrichtr.">
@@ -31,13 +31,30 @@
   
     <link rel="icon" href="https://nimrichtr.cz/assets/identity/favicon.ico" />
     
+    {% set assetHash = global.random() %}
     
     <link rel="stylesheet" href="https://nimrichtr.cz/fonts/fonts.css?{{ assetHash }}" onload="this.media='all'" />
     <style>{% include "css/base.css" %}</style>
     
-    {% block styles %}{% endblock %}
-    <script>
+    {% for item in pageCSS %}
+        <style>{% include item %}</style>
+    {% endfor %}
 
+    {% if largeCSS %}
+        <link rel="stylesheet" media="print" href="{{ largeCSS }}?{{ assetHash }}" onload="this.media='all'" />
+    {% endif %}
+    
+
+    <!--  Fix for compatibility of name.nimrichtr.cz and nimrichtr.cz/name  -->
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll("a").forEach(link => {
+        let href = link.getAttribute("href");
+        if (!(window.location.hostname === "{{name + '.' + site.url}}") && href.startsWith("/")) {
+          link.setAttribute("href", "/{{name}}" + href);
+        }
+      })
+    });
     </script>
     {% block head %}{% endblock %}
   </head>

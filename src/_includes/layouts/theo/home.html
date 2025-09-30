@@ -1,0 +1,16 @@
+{% extends "layouts/personal-base.html" %}
+
+{% set ContentCSS = "../css/theo/home.css" %}
+
+{% block pagecontent %}
+
+<div class="intro">
+{{ text.intro | md | safe }}
+</div>
+
+
+{{ text.bio | md | safe }}
+
+{{content | safe}}
+
+{% endblock %}

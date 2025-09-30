@@ -1,0 +1,27 @@
+@use '../defaults' as *;
+
+@use '../personal-base' as *;
+
+body {
+  background: $color-light;
+  color: $color-theo-primary;
+  font-family: $font-family-base;
+};
+
+a {
+  color: $color-arnost-primary;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h1 {
+  text-align: right;
+  margin-bottom: 6rem;
+}
+
+em {
+  color: lighten($color-dark, 20%);
+}

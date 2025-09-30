@@ -1,7 +1,7 @@
 require('dotenv').config();
 // const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 //const matter = require('gray-matter');
-//const markdownIt = require('markdown-it');
+const markdownIt = require('markdown-it');
 
 module.exports = function(eleventyConfig) {
   
@@ -13,25 +13,15 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/arnost/assets":   "arnost/assets" });
 
   eleventyConfig.addPassthroughCopy({ "src/_includes/fonts": "fonts"});
+  eleventyConfig.addPassthroughCopy({ "src/google7c93c9bfb4d70535.html": "google7c93c9bfb4d70535.html"});
 
 
-  // // Returns work items, sorted by display order
-  // eleventyConfig.addCollection('work', (collection) => {
-  //   return sortByDisplayOrder(collection.getFilteredByGlob('./src/work/*.md'));
-  // });
+  eleventyConfig.addFilter("year", () => {
+    return new Date().getFullYear();
+  });
 
-
-  // // Slots parser
-  // const md = new MarkdownIt({ html: true });
-  // eleventyConfig.addPairedShortcode("slot", function(content, name) {
-  //   this.page.data.slots = this.page.data.slots || {};
-  //   const parsed = matter(content); // gray-matter splits front matter + body
-  //   this.page.data.slots[name] = {
-  //     data: parsed.data,
-  //     body: md.render(parsed.content)
-  //   };
-  //   return "";
-  // });
+  md = new markdownIt();
+  eleventyConfig.addFilter("md", content => md.render(content));
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", async function(content, outputPath) {

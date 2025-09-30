@@ -1,0 +1,62 @@
+.split-view {
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+}
+
+.split {
+  width: 100%;
+  min-height: 100%;
+}
+.split.left {
+  background: #CE2D4F;
+  clip-path: polygon(0 0, 100% 100%, 0 100%);
+  margin-right: -50%;
+  transition: transform 0.3s;
+  transform-origin: left bottom;
+}
+.split.left:hover {
+  transform: scale(1.03);
+  z-index: 1;
+}
+.split.left .content {
+  margin: 0 auto auto 0;
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+}
+.split.right {
+  background: #002147;
+  clip-path: polygon(100% 0, 100% 100%, 0 0);
+  margin-left: -50%;
+  transition: transform 0.3s;
+  transform-origin: right top;
+}
+.split.right:hover {
+  transform: scale(1.03);
+  z-index: 1;
+}
+.split.right .content {
+  margin: auto 0 0 auto;
+  text-align: right;
+  margin-top: -1rem;
+}
+.split .content {
+  color: #fff;
+  width: 80%;
+  padding: 2rem;
+}
+.split .fill-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  clip-path: inherit;
+}
+
+.split h1 {
+  font-size: 7.5vw;
+}
+
+/*# sourceMappingURL=home.css.map */

@@ -74,7 +74,7 @@ select {
   }
 }
 html, body {
-  font-family: "Roboto Mono", "Inter", "Segoe UI", Arial, sans-serif;
+  font-family: "Roboto Mono", "Consolas", "Courier New", monospace;
   overflow-x: hidden;
   box-sizing: border-box;
 }

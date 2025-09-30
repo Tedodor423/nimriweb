@@ -1,0 +1,30 @@
+{
+	"theo": [
+		{
+			"text": "home",
+			"url": "/"
+		},
+		{
+			"text": "sponsors",
+			"url": "/sponsors/"
+		},
+		{
+			"text": "contact",
+			"url": "/contact/"
+		}
+	],
+	"arnost": [
+		{
+			"text": "Home",
+			"url": "/"
+		},
+		{
+			"text": "Sponsors",
+			"url": "/sponsors/"
+		},
+		{
+			"text": "Contact",
+			"url": "/contact/"
+		}
+	]
+}

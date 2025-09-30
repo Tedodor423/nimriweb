@@ -1,0 +1,11 @@
+<nav>
+    <ul class="nav_list">
+        {% for item in navigation[name] %}
+        <li {% if page.url === item.url or page.url === '/'+name+item.url %}class="active"{% endif %}>
+            <a href="{{item.url}}">                
+                {{ item.text }}
+            </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
