@@ -50,7 +50,7 @@
     document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll("a").forEach(link => {
         let href = link.getAttribute("href");
-        if (!(window.location.hostname === "{{name + '.' + site.url}}") && href.startsWith("/")) {
+        if (window.location.hostname === "{{site.url}}" && href.startsWith("/")) {
           link.setAttribute("href", "/{{name}}" + href);
         }
       })
