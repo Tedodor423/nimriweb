@@ -15,15 +15,11 @@
 	],
 	"arnost": [
 		{
-			"text": "Home",
+			"text": "Úvod",
 			"url": "/"
 		},
 		{
-			"text": "Sponsors",
-			"url": "/sponsors/"
-		},
-		{
-			"text": "Contact",
+			"text": "Kontakt",
 			"url": "/contact/"
 		}
 	]

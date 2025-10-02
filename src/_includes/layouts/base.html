@@ -36,6 +36,8 @@
     <link rel="stylesheet" href="https://nimrichtr.cz/fonts/fonts.css?{{ assetHash }}" onload="this.media='all'" />
     <style>{% include "css/base.css" %}</style>
     
+    {% set pageCSS = pageCSS or [] %}
+
     {% for item in pageCSS %}
         <style>{% include item %}</style>
     {% endfor %}

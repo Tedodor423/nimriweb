@@ -4,8 +4,6 @@ name: arnost
 layout: 'layouts/arnost/contact.html'
 ---
 
-# Arnošt Matěj **Nimrichtr**
+# Kontakt
 
-Klavír, Technika, Aktivní občanství
-
-## 
+Napiště mi na [arnost@nimrichtr.cz](mailto:arnost@nimrichtr.cz).
