@@ -36,15 +36,14 @@
     <link rel="stylesheet" href="https://nimrichtr.cz/fonts/fonts.css?{{ assetHash }}" onload="this.media='all'" />
     <style>{% include "css/base.css" %}</style>
     
-    {% set pageCSS = pageCSS or [] %}
+    
 
     {% for item in pageCSS %}
         <style>{% include item %}</style>
     {% endfor %}
 
-    {% if largeCSS %}
-        <link rel="stylesheet" media="print" href="{{ largeCSS }}?{{ assetHash }}" onload="this.media='all'" />
-    {% endif %}
+
+    {% renderCSS %}
     
 
     <!--  Fix for compatibility of name.nimrichtr.cz and nimrichtr.cz/name  -->
@@ -52,7 +51,7 @@
     document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll("a").forEach(link => {
         let href = link.getAttribute("href");
-        if (window.location.hostname === "{{site.url}}" && href.startsWith("/")) {
+        if ((window.location.hostname === "{{site.url}}" || window.location.hostname.startsWith("localhost")) && href.startsWith("/")) {
           link.setAttribute("href", "/{{name}}" + href);
         }
       })
@@ -61,6 +60,8 @@
     {% block head %}{% endblock %}
   </head>
   <body>
+    {{ pageCSS }}
+    {{ debug }}
     {% block content %}{% endblock %}
   </body>
 </html>

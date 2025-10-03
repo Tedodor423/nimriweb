@@ -1,0 +1,40 @@
+@use "../defaults" as *;
+
+.articles-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    //margin-top: 5rem;
+    margin-bottom: 5rem;
+    
+    article {
+        background: $color-arnost-primary;
+        border-radius: 10px;
+        padding: 0.5rem;
+        
+        a {
+            color: $color-light;
+
+            ul li {
+                margin-bottom: 0;
+                padding: 0;
+                font-size: 1rem;
+            }
+            
+            p {
+                font-size: 0.9rem;
+                margin: 0;
+                font-weight: 400;
+            }
+            
+        }
+        a:hover {
+                text-decoration: none;
+            }
+
+    }
+
+    article:hover {
+        scale: 101.5%;
+    }
+}

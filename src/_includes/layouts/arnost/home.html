@@ -1,6 +1,6 @@
-{% extends "layouts/personal-base.html" %}
+{% extends "layouts/_personal-base.html" %}
+{% addCSS "arnost/home.css" %}
 
-{% set ContentCSS = "../css/theo/home.css" %}
 
 {% block pagecontent %}
 
@@ -8,9 +8,9 @@
 {{ text.intro | md | safe }}
 </div>
 
-
-{{ text.bio | md | safe }}
-
 {{content | safe}}
+
+{% include "layouts/arnost/articles.html" %}
+
 
 {% endblock %}

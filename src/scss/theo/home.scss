@@ -8,6 +8,15 @@ body {
   font-family: $font-family-base;
 };
 
+/* automatic dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: $color-gray;
+    color: #fff;
+    font-family: $font-family-base;
+  }
+}
+
 a {
   color: $color-arnost-primary;
   text-decoration: none;
@@ -23,5 +32,5 @@ h1 {
 }
 
 em {
-  color: lighten($color-dark, 20%);
+  color: $color-gray;
 }

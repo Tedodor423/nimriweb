@@ -1,12 +1,12 @@
-{% set ContentCSS = "../css/arnost/articles.css" %}
+{% addCSS "arnost/articles.css" %}
 
 <div class="articles-list">
-    {% for article in site.arnost.articles reversed %}
-        <article class="article-card">
+    {% for article in articles.arnost %}
+        <article>
             <a href="{{ article.url }}">
-                <h2>{{ article.title }}</h2>
+                <h4>> {{ article.title }}</h2>
                 <p class="article-info">
-                    {{ article.date | date("d. M. Y") }} <b>{{ article.site }}</b>
+                    {{ article.date }} <b>{{ article.site }}</b>
                 </p>
             </a>
         </article>

@@ -1,13 +1,16 @@
 require('dotenv').config();
+
+const fs = require("fs");
+const path = require("path");
+
+
 // const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 //const matter = require('gray-matter');
 const markdownIt = require('markdown-it');
 
 module.exports = function(eleventyConfig) {
   
-  // eleventyConfig.addPassthroughCopy({ 
-  //   "src/**/*.{png,jpg,jpeg,gif,svg}": "/" 
-  // });
+  // Passthrough copy
   eleventyConfig.addPassthroughCopy({ "src/assets":          "assets" });
   eleventyConfig.addPassthroughCopy({ "src/theo/assets":     "theo/assets" });
   eleventyConfig.addPassthroughCopy({ "src/arnost/assets":   "arnost/assets" });
@@ -15,7 +18,29 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/_includes/fonts": "fonts"});
   eleventyConfig.addPassthroughCopy({ "src/google7c93c9bfb4d70535.html": "google7c93c9bfb4d70535.html"});
 
+  // CSS management
+  eleventyConfig.addShortcode("addCSS", function(file) {
+    console.log("Adding CSS file:", file, this.page.pageCSS);
+    // initialize per-page CSS array if it doesn’t exist yet
+    this.page.pageCSS = this.page.pageCSS || new Set();
+    this.page.pageCSS.add(file);
+    return "";
+  });
 
+  eleventyConfig.addShortcode("renderCSS", function() {
+    if (!this.page.pageCSS) return "";
+
+    return Array.from(this.page.pageCSS)
+      .map(file => {
+        const filePath = path.join("src/_includes/css/", file); // adjust to your includes dir
+        const css = fs.readFileSync(filePath, "utf8");
+        return `<style>${css}</style>`;
+      })
+      .join("\n");
+  });
+
+
+  // Filters
   eleventyConfig.addFilter("year", () => {
     return new Date().getFullYear();
   });

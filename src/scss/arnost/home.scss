@@ -3,13 +3,24 @@
 @use '../personal-base' as *;
 
 body {
+  color: $color-arnost-primary;
   background: $color-light;
-  color: $color-theo-primary;
   font-family: $font-family-base;
+
+  .content-wrapper main {
+    margin-top: 10vh;
+
+    iframe {
+      display: block;
+      margin: 0 auto;
+      margin-top: 5rem;
+    }
+
+  }
 };
 
 a {
-  color: $color-arnost-primary;
+  color: $color-arnost-secondary;
   text-decoration: none;
 
   &:hover {
@@ -23,5 +34,11 @@ h1 {
 }
 
 em {
-  color: lighten($color-dark, 20%);
+  color: $color-gray;
+}
+
+hr {
+  margin-top: 5rem;
+  border: none;
+  border-top: 2px solid $color-arnost-primary;
 }

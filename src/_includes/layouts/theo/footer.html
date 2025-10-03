@@ -1,1 +1,8 @@
-{% extends "../footer.html" %}
+{% extends "../_footer.html" %}
+
+{% addCSS "theo/footer.css" %}
+
+{% block content %}
+<p>&copy; {{ "" | year }} {{ site.theo.name }}</p>
+
+{% endblock %}

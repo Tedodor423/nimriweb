@@ -1,0 +1,32 @@
+.articles-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 5rem;
+}
+.articles-list article {
+  background: #CE2D4F;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+.articles-list article a {
+  color: #fff;
+}
+.articles-list article a ul li {
+  margin-bottom: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+.articles-list article a p {
+  font-size: 0.9rem;
+  margin: 0;
+  font-weight: 400;
+}
+.articles-list article a:hover {
+  text-decoration: none;
+}
+.articles-list article:hover {
+  scale: 101.5%;
+}
+
+/*# sourceMappingURL=articles.css.map */

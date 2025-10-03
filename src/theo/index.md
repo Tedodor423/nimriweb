@@ -13,9 +13,6 @@ text:
 
         
         > *This site will be expanded soon, please visit later...*
-
-
 ---
-
 
 

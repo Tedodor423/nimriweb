@@ -1,8 +1,6 @@
-{% extends "layouts/personal-base.html" %}
+{% extends "layouts/_personal-base.html" %}
 
-{% set pageCSS = (pageCSS or []) + ['/css/theo/home.css'] %} <!--https://nimrichtr.cz/-->
-
-
+{% addCSS "theo/home.css" %}
 
 {% block pagecontent %}
 

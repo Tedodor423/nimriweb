@@ -12,31 +12,15 @@ body {
     display: flex;
     flex-direction: column;
 
-    header {
-      padding: 1rem 0;
-      text-align: center;
-
-      nav ul {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        display: flex;
-        justify-content: center;
-        gap: 1rem;
-
-        li.active {
-            font-weight: bold;
-        }
-      }
-    }
 
     main {
       margin-top:20vh;
       flex: 1;
-    }
 
-    footer p {
-      text-align: center;
+      ul li {
+        margin-bottom: 1rem;
+        list-style-type: square;
+      }
     }
   }
 }

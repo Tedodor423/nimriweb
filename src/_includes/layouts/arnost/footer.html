@@ -1,1 +1,9 @@
-{% extends "../footer.html" %}
+{% extends "../_footer.html" %}
+
+{% addCSS "arnost/footer.css" %}
+
+
+{% block content %}
+<p>&copy; {{ "" | year }} {{ site.arnost.name }}</p>
+
+{% endblock %}
