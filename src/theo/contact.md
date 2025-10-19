@@ -6,7 +6,7 @@ layout: 'layouts/theo/contact.html'
 
 # contact
 
-I am currently in: **Czechia**
+I am currently in: **Oxford, UK**
 
 Want to collaborate, ask something, or just talk? Feel free to contact me at [t@nimrichtr.cz](mailto:t@nimrichtr.cz)
 
