@@ -44,22 +44,26 @@ p {
   font-size: 1.1rem;
 }
 
-body {
-  background: #fff;
-  color: #002147;
+html {
+  background: var(--col-background);
+  color: var(--col-text);
   font-family: "Roboto Mono", "Consolas", "Courier New", monospace;
 }
 
-/* automatic dark mode */
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #222;
-    color: #fff;
-    font-family: "Roboto Mono", "Consolas", "Courier New", monospace;
-  }
+html {
+  --col-background: $color-light;
+  --col-text: #002147;
+  --col-secondary: #CE2D4F;
 }
+
+html.dark-mode {
+  --col-background: #222;
+  --col-text: #fff;
+  --col-secondary: #CE2D4F;
+}
+
 a {
-  color: #CE2D4F;
+  color: var(--col-secondary);
   text-decoration: none;
 }
 a:hover {
@@ -73,6 +77,52 @@ h1 {
 
 em {
   color: #222;
+}
+
+img {
+  margin: auto;
+}
+img.rounded-corners {
+  border-radius: 5%;
+}
+img.angled-corners {
+  clip-path: polygon(40px 0, calc(100% - 40px) 0, 100% 40px, 100% calc(100% - 40px), calc(100% - 40px) 100%, 40px 100%, 0 calc(100% - 40px), 0 40px);
+}
+
+button.dark-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+}
+button.dark-toggle:hover {
+  text-decoration: underline;
+}
+
+@keyframes colorSweep {
+  0% {
+    background-position: -200% 0;
+  }
+  50% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+.morph-hover .label {
+  display: inline-block;
+  background-image: linear-gradient(90deg, var(--col-text) 0%, var(--col-secondary) 50%, var(--col-text) 100%);
+  background-size: 200% 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent; /* hide fill, show gradient */
+  -webkit-text-fill-color: transparent;
+  animation: colorSweep 6s ease-in-out infinite;
+}
+.morph-hover .frame {
+  margin: auto;
 }
 
 /*# sourceMappingURL=contact.css.map */

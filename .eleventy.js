@@ -7,6 +7,7 @@ const path = require("path");
 // const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 //const matter = require('gray-matter');
 const markdownIt = require('markdown-it');
+const HEAD_MARK = "__HEAD_INJECT_MARKER__";
 
 module.exports = function(eleventyConfig) {
   
@@ -35,6 +36,28 @@ module.exports = function(eleventyConfig) {
         const filePath = path.join("src/_includes/css/", file); // adjust to your includes dir
         const css = fs.readFileSync(filePath, "utf8");
         return `<style>${css}</style>`;
+      })
+      .join("\n");
+  });
+
+  // JS management
+  eleventyConfig.addShortcode("addJS", function(file) {
+    console.log("Adding JS file:", file, this.page.pageJS);
+    // initialize per-page JS array if it doesn’t exist yet
+    this.page.pageJS = this.page.pageJS || new Set();
+    this.page.pageJS.add(file);
+    return "";
+  });
+
+  eleventyConfig.addShortcode("renderJS", function() {
+    if (!this.page.pageJS) return "";
+
+    return Array.from(this.page.pageJS)
+      .map(file => {
+        const filePath = path.join("src/_includes/js/", file); // adjust to your includes dir
+        const js = fs.readFileSync(filePath, "utf8");
+        console.log("Rendering JS file:", js);
+        return `<script>${js}</script>`;
       })
       .join("\n");
   });

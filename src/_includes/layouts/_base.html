@@ -44,11 +44,11 @@
 
 
     {% renderCSS %}
-    
+    {% renderJS %}
 
-    <!--  Fix for compatibility of name.nimrichtr.cz and nimrichtr.cz/name  -->
     <script>
     document.addEventListener("DOMContentLoaded", function () {
+      /* Fix for compatibility of name.nimrichtr.cz and nimrichtr.cz/name*/
       document.querySelectorAll("a").forEach(link => {
         let href = link.getAttribute("href");
         if ((window.location.hostname === "{{site.url}}" || window.location.hostname.startsWith("localhost")) && href.startsWith("/")) {
@@ -60,8 +60,6 @@
     {% block head %}{% endblock %}
   </head>
   <body>
-    {{ pageCSS }}
-    {{ debug }}
     {% block content %}{% endblock %}
   </body>
 </html>

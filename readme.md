@@ -12,7 +12,7 @@ Created based on https://learn-eleventy.pages.dev/
   - from a database, with categories that can be selected and then experience is displayed based on importance ranking
   - [ ] js physics playground?
 - [ ] mobile menu like https://www.ukforum.cz/
-- [ ] dark mode switch
+- [x] dark mode switch
 - [ ] google console, SEO
 - [ ] contact links moving around the screen after click
 - [ ] Recent articles
@@ -24,5 +24,5 @@ Created based on https://learn-eleventy.pages.dev/
 - [ ] simple mouse shader overlay
 
 
-#### Arno3t
+#### Arnošt
 - [ ] create a backlog :)

@@ -1,8 +1,10 @@
 {% extends "../_footer.html" %}
 
 {% addCSS "theo/footer.css" %}
+{% addJS  "theoThemeToggle.js" %}
 
 {% block content %}
-<p>&copy; {{ "" | year }} {{ site.theo.name }}</p>
+<p>&copy; {{ "" | year }} {{ site.theo.name }} &nbsp;[<button class="dark-toggle" onclick="toggleDarkMode()"></button>]</p>
+
 
 {% endblock %}
