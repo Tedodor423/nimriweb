@@ -12,4 +12,4 @@ Thanks to these sponsors I am able to continue my studies <3
 - University of Oxford - [Palgrave Brown Scholarship](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-support/palgrave-brown-scholarship-non-uk)
 - [Nadace Lenky a Romana Šmidberských](https://nadacelr.cz/)
 
-Want to support me or want guidance on getting similar support? [Contact](/contact) me!
+Want to support me or want guidance on getting similar support? [Contact](/contact) me! If you speak Czech, you can also watch a [YouTube video](https://l.nimrichtr.cz/financovani-studia/) of me giving some advice.
