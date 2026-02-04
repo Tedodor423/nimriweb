@@ -8,6 +8,7 @@ Created based on https://learn-eleventy.pages.dev/
 
 #### Theo
 - [ ] more contact links
+- [ ] my image?
 - [ ] dynamic CV page
   - from a database, with categories that can be selected and then experience is displayed based on importance ranking - drawn diagram
   - [ ] js physics playground?
@@ -25,7 +26,10 @@ Created based on https://learn-eleventy.pages.dev/
   - [ ] submarine
   - [ ] spectrometer
   - [ ] scio
-  - [ ] 
+  - [ ] EYP olomouc
+  - [ ] EYP presiding, erasmus
+  - [ ] noe
+  - [ ] maturak
   - [ ] OXAI hw lab
   - [ ] hitchiking?
   - [ ] prostredoskolaky
