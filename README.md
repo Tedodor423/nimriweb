@@ -9,9 +9,8 @@ Created based on https://learn-eleventy.pages.dev/
 #### Theo
 - [ ] more contact links
 - [ ] dynamic CV page
-  - from a database, with categories that can be selected and then experience is displayed based on importance ranking
+  - from a database, with categories that can be selected and then experience is displayed based on importance ranking - drawn diagram
   - [ ] js physics playground?
-- [ ] mobile menu like https://www.ukforum.cz/
 - [x] dark mode switch
 - [ ] google console, SEO
 - [ ] contact links moving around the screen after click
@@ -19,10 +18,21 @@ Created based on https://learn-eleventy.pages.dev/
 - [ ] Blog: obsidian-esque
   - [ ] publishing from obsidian?
 - [ ] Projects page - how to merge w/ cv page?
-- [ ] Posts of some kind - interesting photos?
-  - [ ] Simple post workflow?
+- [ ] blog/project posts - tags: travel, technology, research, nonprofit
+  - [ ] senseties
+  - [ ] oxbridge
+  - [ ] varsity trip
+  - [ ] submarine
+  - [ ] spectrometer
+  - [ ] scio
+  - [ ] 
+  - [ ] OXAI hw lab
+  - [ ] hitchiking?
+  - [ ] prostredoskolaky
+  - [ ] archiv??
+  - [ ] immunology lab?
 - [ ] simple mouse shader overlay
 
 
 #### Arnošt
-- [ ] create a backlog :)
+- [ ] convert arnošt into WP
