@@ -83,4 +83,21 @@ html, body {
   box-sizing: inherit;
 }
 
+.mobile-show {
+  display: none;
+}
+
+.mobile-hide {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .mobile-show {
+    display: block;
+  }
+  .mobile-hide {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=base.css.map */

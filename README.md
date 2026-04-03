@@ -7,6 +7,7 @@ Created based on https://learn-eleventy.pages.dev/
 ## Backlog:
 
 #### Theo
+- [ ] mobile menu like https://www.ukforum.cz/
 - [ ] more contact links
 - [ ] my image?
 - [ ] dynamic CV page
