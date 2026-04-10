@@ -75,6 +75,11 @@ h1 {
   margin-bottom: 6rem;
 }
 
+table td {
+  border-width: 1px;
+  border-color: var(--col-text);
+}
+
 img {
   margin: auto;
 }

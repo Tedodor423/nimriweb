@@ -6,7 +6,7 @@ layout: 'layouts/theo/contact.html'
 
 # contact
 
-I am currently in: **Pardubice/Prague, CZ**
+I am currently in: **San Francisco, CA, USA**
 
 Want to collaborate, ask something, or just talk? Feel free to contact me at [t@nimrichtr.cz](mailto:t@nimrichtr.cz)
 

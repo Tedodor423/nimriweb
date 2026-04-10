@@ -6,7 +6,7 @@ layout: 'layouts/theo/pages.html'
 
 # What to see in Czechia as a foreign tourist
 
-## Central Prague
+## Touristy Prague
 
 <a href="../../assets/prague-center-tourism.png"><img src="../../assets/prague-center-tourism.png"></a>
 
@@ -16,7 +16,7 @@ there are many other locations in the historical centre worth seeing, its **best
 - walk along the river (eg Kampa park) and on the islands, there are very nice parks and nice views all around
 - Národní Třída (National Boulevard) street: start off with the national theatre (read its wiki page it has an interesting history of burning down and the entire nation donating money towards it twice), also Václav Havel square inside the modern theatre, then a lot of cafes and nice architecture across its entire length
 - Václavské náměstí (Venceslaus / Main square) - under reconstruction but you should see the beautiful national museum at its top (southeast end), it also has a lot of 'passages' = beautiful streets within the buildings, search for eg Pasáž Koruna, Pasáž Lucerna
-- Republiky square - also a very nice are, nearby there is a new cool train station by Zaha Hadid
+- Náměstí Republiky square - also a very nice area, nearby there is a new cool train station by Zaha Hadid
 - explore the streets around the old town, at least between the aforementioned places
 - the whole Malá Strana quater on the west side of the river is worth exploring, although it can sometimes be uphill, there is so many palaces, government buildings, embassies, churches, all beautiful, make sure to checkout Valdštejn Gardens
 - then there is the castle, check out all of its public parts (you dont have to go to the expensive golden street), the huge cathedral and I would also recommend going in the gallery
