@@ -11,5 +11,6 @@ find src/scss/theo -maxdepth 1 -type f ! -name "_*" -exec sh -c 'filename=$(base
 find src/scss/arnost -maxdepth 1 -type f ! -name "_*" -exec sh -c 'filename=$(basename "$1" .scss); npx sass --watch "$1" "src/_includes/css/arnost/${filename}.css" &' _ {} \;
 
 find src/scss/large -maxdepth 1 -type f ! -name "_*" -exec sh -c 'filename=$(basename "$1" .scss); npx sass --watch "$1" "_site/css/${filename}.css" &' _ {} \;
+ELEVENTY_OUTPUT=_site node scripts/build-presentations.js --watch &
 
 npx eleventy --serve

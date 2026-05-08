@@ -13,3 +13,4 @@ find src/scss/large -maxdepth 1 -type f -exec sh -c 'filename=$(basename "$1" .s
 
 
 npx eleventy
+ELEVENTY_OUTPUT=/var/www/html node scripts/build-presentations.js

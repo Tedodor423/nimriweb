@@ -51,7 +51,12 @@
       /* Fix for compatibility of name.nimrichtr.cz and nimrichtr.cz/name*/
       document.querySelectorAll("a").forEach(link => {
         let href = link.getAttribute("href");
-        if ((window.location.hostname === "{{site.url}}" || window.location.hostname.startsWith("localhost")) && href.startsWith("/")) {
+        if (
+          href &&
+          href.startsWith("/") &&
+          !href.startsWith("/p/") &&
+          (window.location.hostname === "{{site.url}}" || window.location.hostname.startsWith("localhost"))
+        ) {
           link.setAttribute("href", "/{{name}}" + href);
         }
       })
