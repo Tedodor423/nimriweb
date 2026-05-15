@@ -12,5 +12,5 @@ find src/scss/theo -maxdepth 1 -type f -exec sh -c 'filename=$(basename "$1" .sc
 find src/scss/large -maxdepth 1 -type f -exec sh -c 'filename=$(basename "$1" .scss); npx sass "$1" "/var/www/html/css/${filename}.css"' _ {} \;
 
 
-npx eleventy
+npm exec -- eleventy
 ELEVENTY_OUTPUT=/var/www/html node scripts/build-presentations.js
