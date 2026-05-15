@@ -6,6 +6,7 @@ layout: 'layouts/theo/pages.html'
 
 ### 1. Maroko
 afrika, poušť, pohoří atlas, historický města, oceán
+
 cena za 8 dní (2.-9.9): 11450 Kč
 - cesta 4250
 - ubytko 2800 (často se snídaní)
@@ -45,6 +46,7 @@ Levné lokální jídlo
 - street food/sendviče: ~1–4 €
 - mint tea: ~0.5–2 €
 - fresh juice: ~1–2 €
+
 Turističtější rooftop/restaurace 
 - ~8–20 € za jídlo
 Seafood v Essaouiře
@@ -98,14 +100,15 @@ Praha je velmi drahá, ceny jsou včetně dopravy až na letiště
 
 ### 2. Řecko
 evropa, víc chill, slavný památky, moře
-Cena za osobu - Athény 5 dní (14.-19.8): 11440
+
+Cena za osobu - Athény 5 dní (14.-19.8): 11440 kč
 - cesta 3840
 - ubytko 2300
 - MHD doprava 1000
 - jídlo 4300
 
 
-Cena za osobu - Soluň 4 dny (14.-18.8): 10900
+Cena za osobu - Soluň 4 dny (14.-18.8): 10900 kč
 - cesta 3400
 - ubytko 2000
 - auto 1500
