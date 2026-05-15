@@ -1,4 +1,8 @@
-
+---
+title: 'STC Dovolená 2026'
+name: theo
+layout: 'layouts/theo/pages.html'
+---
 
 ### 1. Maroko
 afrika, poušť, pohoří atlas, historický města, oceán
@@ -25,6 +29,7 @@ nebo za 5 dní (16.-20.8 nebo 5.-9.9): cca 8900 Kč
 - Rabat — underrated, čistý a příjemný
 
 [Trasa na Google maps](https://maps.app.goo.gl/iSiEW9FhUVBqqZ8R9?g_st=ac)
+
 ![[../../stc26/Screenshot_20260515_000552_Maps.png|300]]
 
 
