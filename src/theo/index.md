@@ -9,7 +9,7 @@ text:
     bio: |
         I'm currently studying **Biomedical Sciences @ Oxford&nbsp;University** thanks to the support of my generous [sponsors](/sponsors/). My main interests are medical sciences, IT and education. I also like to sing, read, travel, or dance.
         
-        Check out my CV in [English](/assets/Nimrichtr_CV_EN.pdf) or [Czech](/assets/Nimrichtr_CV_CZ.pdf).
+        Check out my CV in [English](/assets/Nimrichtr_CV_EN.pdf) or [Czech](/assets/Nimrichtr_CV_CZ.pdf) for a broad overview of the stuff I do, or **browse through some [projects](/projects)** that I did and find cool.
 
         
 ---

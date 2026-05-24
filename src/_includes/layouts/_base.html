@@ -54,12 +54,33 @@
         if (
           href &&
           href.startsWith("/") &&
+          !href.startsWith("/{{name}}/") &&
           !href.startsWith("/p/") &&
           (window.location.hostname === "{{site.url}}" || window.location.hostname.startsWith("localhost"))
         ) {
           link.setAttribute("href", "/{{name}}" + href);
         }
       })
+
+      document.querySelectorAll("a[href]").forEach(link => {
+        const url = new URL(link.getAttribute("href"), window.location.href);
+
+        if (url.origin !== window.location.origin || !url.pathname.toLowerCase().endsWith(".pdf")) {
+          return;
+        }
+
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener");
+        link.addEventListener("click", function () {
+          const downloadLink = document.createElement("a");
+          downloadLink.href = link.href;
+          downloadLink.download = decodeURIComponent(url.pathname.split("/").pop() || "document.pdf");
+          downloadLink.style.display = "none";
+          document.body.appendChild(downloadLink);
+          downloadLink.click();
+          downloadLink.remove();
+        });
+      });
     });
     </script>
     {% block head %}{% endblock %}

@@ -1,0 +1,292 @@
+{
+    "fields": [
+        "medicine",
+        "technology",
+        "bussiness",
+        "education"
+    ],
+
+    "description": {
+        "general": "",
+        "medicine": "",
+        "technology": "",
+        "bussiness": "",
+        "education": ""
+    },
+
+    "profile-images": {
+        "general": "profile.jpg",
+        "medicine": "medicine.jpg",
+        "technology": "technology.jpg",
+        "bussiness": "bussiness.jpg",
+        "education": "education.jpg"
+    },
+
+    "education": [
+        {
+            "field" : [""],
+            "priority" : "TEMPLATE",
+
+            "institution" : "",
+            "name" : "",
+            "description" : "",
+            "link" : "",
+
+            "from" : "",
+            "to" : ""
+        },
+        {
+            "field" : ["medicine", "technology", "bussiness", "education"],
+            "priority" : 0,
+
+            "institution" : "University of Oxford",
+            "name" : "Master of Biomedical Sciences",
+            "description" : "",
+            "link" : "",
+
+            "from" : "2025",
+            "to" : "2029"
+        },
+        {
+            "field" : ["medicine", "technology", "bussiness", "education"],
+            "priority" : 1,
+
+            "institution" : "Charles University in Prague",
+            "name" : "General Medicine",
+            "description" : "",
+            "link" : "",
+
+            "from" : "2024",
+            "to" : "2025"
+        },
+        {
+            "field" : ["medicine", "technology", "bussiness", "education"],
+            "priority" : 1.5,
+
+            "institution" : "Czech Technical University in Prague",
+            "name" : "Computer Science",
+            "description" : "",
+            "link" : "",
+
+            "from" : "2024",
+            "to" : "2025"
+        },
+        {
+            "field" : ["medicine", "technology", "bussiness", "education"],
+            "priority" : 2,
+
+            "institution" : "Grammar School Dašická Pardubice",
+            "name" : "8 year grammar school",
+            "description" : "School leaving exam: 100 % Math, 100 % Czech, A Biology, A Physics, A Chemistry, A English",
+            "link" : "",
+
+            "from" : "2016",
+            "to" : "2024"
+        },
+        {
+            "field" : ["medicine", "technology", "bussiness", "education"],
+            "priority" : 3,
+
+            "institution" : "Elementary Art School, Havlíčkova Pardubice",
+            "name" : "Violin, Piano, Music Theory, Art",
+            "description" : "",
+            "link" : "",
+
+            "from" : "2011",
+            "to" : "2024"
+        }
+    ],
+
+    
+    "research": [
+        {
+            "field" : [""],
+            "priority" : "TEMPLATE",
+
+            "institution" : "",
+            "name" : "",
+            "description" : "",
+            "link" : "",
+
+            "from" : "",
+            "to" : ""
+        }
+    ],
+    
+    "awards": [
+        {
+            "field" : [""],
+            "priority" : "TEMPLATE",
+
+            "name" : "",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Highschooler of the year: 5th place (2024), TOP25 (2023), organiser of the 2025 round",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Students’ professional activities (SOČ science fair): 2nd, 2nd in national, 1st, 1st in regional round, 2x international participation",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Junior Science Conference (JVK), Charles University: 2nd, 3rd place, now member of jury",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "General Academic Prerequisites Test, SCIO: 100th percentile Nationaly",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Chemical Olympiad: 1st, 2nd, 2nd, 2nd place in regional, participant at national round",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "award of the Vice-Dean of Faculty of Natural sciences, Masaryk University",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Young talent of Pardubice region - part of 23 selected students form entire region",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Czech national programming championship: 8th place",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Little Czech Brain (České hlavičky): 2nd place in category GENUS - natural sciences",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Physics Olympiad: 2nd, 2nd place in regional round",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "scholarship of the dean of Faculty of Nuclear Sciences and Physical Engineering, CTU",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        },
+        {
+            "field" : [""],
+            "priority" : 10,
+
+            "name" : "Czech Rocket Challenge: 3rd place",
+            "description" : "",
+            "link" : "",
+
+            "date" : ""
+        }
+    ],
+
+    "work-experience": [
+        {
+            "field" : [""],
+            "priority" : "TEMPLATE",
+
+            "institution" : "",
+            "name" : "",
+            "description" : "",
+            "link" : "",
+
+            "from" : "",
+            "to" : ""
+        }
+    ],
+
+    "certifications": [
+        {
+            "field" : [""],
+            "priority" : "TEMPLATE",
+
+            "name" : "",
+            "description" : "",
+            "link" : "",
+
+            "from" : "",
+            "to" : ""
+        }
+    ],
+    
+    "hobby projects": [
+        {
+            "field" : [""],
+            "priority" : "TEMPLATE",
+
+            "name" : "",
+            "description" : "",
+            "link" : "",
+
+            "from" : "",
+            "to" : ""
+        }
+    ]
+}

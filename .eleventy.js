@@ -130,6 +130,55 @@ function obsidianImagePlugin(md) {
   });
 }
 
+function markdownImageSizePlugin(md) {
+  const defaultImageRender = md.renderer.rules.image || function defaultImageRender(tokens, idx, options, env, self) {
+    return self.renderToken(tokens, idx, options);
+  };
+
+  md.renderer.rules.image = function imageRender(tokens, idx, options, env, self) {
+    const token = tokens[idx];
+    const src = token.attrGet("src");
+
+    if (src) {
+      const srcParts = src.match(/^(.+?)(?:\||%7C|%7c)(\d+(?:x\d+)?)([?#].*)?$/);
+
+      if (srcParts) {
+        const [, imageSrc, dimensions, suffix = ""] = srcParts;
+        const [width, height] = dimensions.toLowerCase().split("x");
+
+        token.attrSet("src", imageSrc + suffix);
+        token.attrSet("width", width);
+
+        if (height) {
+          token.attrSet("height", height);
+        }
+      }
+    }
+
+    return defaultImageRender(tokens, idx, options, env, self);
+  };
+}
+
+function markdownFileLinkPlugin(md) {
+  const defaultLinkOpenRender = md.renderer.rules.link_open || function defaultLinkOpenRender(tokens, idx, options, env, self) {
+    return self.renderToken(tokens, idx, options);
+  };
+  const fileExtension = /\.(?:pdf|docx?|pptx?|xlsx?|csv|zip|txt)(?:[?#].*)?$/i;
+  const externalUrl = /^https?:\/\//i;
+
+  md.renderer.rules.link_open = function linkOpenRender(tokens, idx, options, env, self) {
+    const token = tokens[idx];
+    const href = token.attrGet("href");
+
+    if (href && (fileExtension.test(href) || externalUrl.test(href))) {
+      token.attrSet("target", "_blank");
+      token.attrSet("rel", "noopener");
+    }
+
+    return defaultLinkOpenRender(tokens, idx, options, env, self);
+  };
+}
+
 function renderCollapsibleNodes(nodes, idCounter) {
   return nodes.map(node => {
     if (typeof node === "string") {
@@ -268,7 +317,10 @@ module.exports = function(eleventyConfig) {
     return new Date().getFullYear();
   });
 
-  const md = new markdownIt().use(obsidianImagePlugin);
+  const md = new markdownIt()
+    .use(obsidianImagePlugin)
+    .use(markdownImageSizePlugin)
+    .use(markdownFileLinkPlugin);
   eleventyConfig.setLibrary("md", md);
   eleventyConfig.addFilter("md", content => md.render(content));
 

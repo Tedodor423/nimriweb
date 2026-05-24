@@ -5,6 +5,10 @@
 			"url": "/"
 		},
 		{
+			"text": "projects",
+			"url": "/projects/"
+		},
+		{
 			"text": "sponsors",
 			"url": "/sponsors/"
 		},
