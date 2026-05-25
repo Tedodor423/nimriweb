@@ -72,8 +72,8 @@ Originally intended for students going to prestigious universities with prestigi
 
 - **Prove everything you can**
     - when talking about anything, try to enumerate what it entailed (i organised this event with a budget of $10,000 for 150+ people, I worked on this project for 3 years, i did this many legal cases)
-    - provide links to articles/websites, pdfs of certificats
-    - get references from fancy sounding people ('reknowned' scientist, CEOs of companies, directors of institutions)
+    - provide links to articles/websites, pdfs of certificates
+    - get references from fancy sounding people ('renowned' scientist, CEOs of companies, directors of institutions)
         - try to ask even your future school's department if they could provide a recommendation
     - if you have something valuable without a certificate, e.g. a volunteering programme, make a reccommendation letter signed by someone you worked with
     - it's also nice if a lot of good references come up just when googling your name, but that's not always possible (but you could put time into having at least a usable Linkedin so they know you are real)
@@ -95,12 +95,12 @@ Originally intended for students going to prestigious universities with prestigi
 (you are probably going to be cold emailing this, but the same information can be also transferred in person)
 
 
-<a href="../../assets/fundr-mail-annotated.png"><img src="../../assets/fundr-mail-annotated.png" title="One of my own fundraising cold emails in Czech"></a>
+[![One of my own fundraising cold emails in Czech](../../assets/fundr-mail-annotated.png)](../../assets/fundr-mail-annotated.png)
 
 - **make the subject a 'clickbait'**, them opening your message is half the battle (e.g. Help a talented student at XYZ uni)
 0. A very short 'too-long-didnt-read' (TLDR) of the whole message (optional, I would recommend it when messaging busier people like CEOs, it shows that you value their time)
 1. Introduce yourself and your situation in one sentence
-    - make it obvious at first glance that you are an interesting and smart person (e.g. young scientist working at a laboratory from the age of 14, it can be enough to say that you got into this prestigious school)
+    - make it obvious at first glance that you are an interesting and smart person (e.g. young scientist working at a laboratory from the age of 14, it may be enough to say that you got into this prestigious school)
 2. 'Im contacting you to present my current situation and talk about the possibility of financial support' - **do not mention the total buget in the first message** (so they have to reply at least once)
 3. Call to action (CTA) - *would it be possible to have a personal meeting / call?* - dont talk about financial support directly yet, just about 'discussing the possibility of support' so they dont feel like they agreed to anything binding
 4. Attachments - to keep the main message short I recommend putting most of the content into attachements, which can be nicer and thus more readable documents than the email, here is what I included:
@@ -132,7 +132,7 @@ As this is  quite time and effort intensive I would recommend trying individual 
 - Reaching out to media outlets: doing news articles, interviews, public talks, going on TV etc.
 - Convincing a lot of (famous) people to share your story
 
-Crowdfunding can be every variable, to get really large sums of money from the general public you would have to go somewhat viral. But its a very good advertisement and if you get some philantropists to find you this way, good for you!
+Crowdfunding can be very variable, to get really large sums of money from the general public you would have to go somewhat viral. It's simultaneously a good advertisement and you may get some philantropists to find you this way!
 
 ### Step 4: Sort it out financially/legally
 - Always be fully transparent about your finances
@@ -145,7 +145,7 @@ Crowdfunding can be every variable, to get really large sums of money from the g
 - Once you have enough sponsors on your side, its best to have a **legal contract**
     - It can be very easy, with just specifying how much, for what purpose, and how they are going to support you, and what you have to do in return (e.g. if you stop studying they are not obliged to keep sending you more money)
     - If you [contact](/contact) me I can provide you with some agreement templates.
-    - Make sure to sort out who pays the taxes (depends on the country but any larger sum of gifted money usually has to be reported and taxed)
+    - Make sure to sort out who pays the taxes (depends on the jurisdiction, paying for tuition fees is sometimes deductable, e.g. schools in the UK are charities)
 
 
 ### 4. Concluding notes
@@ -156,6 +156,6 @@ Crowdfunding can be every variable, to get really large sums of money from the g
 
 - If you speak Czech, you can also watch a [Youtube Video](https://l.nimrichtr.cz/financovani-studia/) of me giving some advice.
 
-- Are you from the Czech Republic or Slovakia and got into Oxford or Cambridge? Check out this [scholarship programme](oxbridgestipendium.org) i helped create.
+- Are you from the Czech Republic or Slovakia and got into Oxford or Cambridge? Check out this [scholarship programme](oxbridgestipendium.org) i co-founded.
 
 Now its up to you, GLHF!

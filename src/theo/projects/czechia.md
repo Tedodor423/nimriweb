@@ -8,11 +8,11 @@ layout: 'layouts/theo/pages.html'
 
 ## Touristy Prague
 
-<a href="../../assets/prague-center-tourism.png"><img src="../../assets/prague-center-tourism.png"></a>
+[![Prague tourism map](../../assets/prague-center-tourism.png)](../../assets/prague-center-tourism.png)
 
-First there is the **mandatory but very touristy centre** (marked <span style="color: red">red</span>): the Old Town with its square and the astronomical clock, Charles' Bridge, Jewish cemetery and synagogues, etc.
+First there is the **mandatory but very touristy centre** (marked red): the Old Town with its square and the astronomical clock, Charles' Bridge, Jewish cemetery and synagogues, etc.
 
-there are many other locations in the historical centre worth seeing, its **best just to walk through these areas and explore**, i tried to mark some important stuff in <span style="color: orange">yellow</span>
+there are many other locations in the historical centre worth seeing, its **best just to walk through these areas and explore**, i tried to mark some important stuff in yellow
 - walk along the river (eg Kampa park) and on the islands, there are very nice parks and nice views all around
 - Národní Třída (National Boulevard) street: start off with the national theatre (read its wiki page it has an interesting history of burning down and the entire nation donating money towards it twice), also Václav Havel square inside the modern theatre, then a lot of cafes and nice architecture across its entire length
 - Václavské náměstí (Venceslaus / Main square) - under reconstruction but you should see the beautiful national museum at its top (southeast end), it also has a lot of 'passages' = beautiful streets within the buildings, search for eg Pasáž Koruna, Pasáž Lucerna
