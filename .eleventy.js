@@ -33,6 +33,67 @@ function relativeOutputPath(fromUrl, toUrl) {
   return relativePath || path.posix.basename(toUrl);
 }
 
+function escapeHtmlAttribute(value = "") {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function getYouTubeEmbedData(input) {
+  if (!input) {
+    return null;
+  }
+
+  const trimmedInput = String(input).trim();
+
+  if (/^[a-zA-Z0-9_-]{11}$/.test(trimmedInput)) {
+    return { videoId: trimmedInput, params: "" };
+  }
+
+  try {
+    const url = new URL(trimmedInput);
+    const hostname = url.hostname.replace(/^www\./, "").toLowerCase();
+    const embedParams = new URLSearchParams();
+    const allowedParams = ["start", "end", "list"];
+
+    for (const param of allowedParams) {
+      const value = url.searchParams.get(param);
+      if (value) {
+        embedParams.set(param, value);
+      }
+    }
+
+    if (hostname === "youtu.be") {
+      const shortId = url.pathname.split("/").filter(Boolean)[0];
+      return /^[a-zA-Z0-9_-]{11}$/.test(shortId)
+        ? { videoId: shortId, params: embedParams.toString() }
+        : null;
+    }
+
+    if (hostname === "youtube.com" || hostname === "m.youtube.com") {
+      if (url.pathname === "/watch") {
+        const watchId = url.searchParams.get("v");
+        return /^[a-zA-Z0-9_-]{11}$/.test(watchId)
+          ? { videoId: watchId, params: embedParams.toString() }
+          : null;
+      }
+
+      const pathParts = url.pathname.split("/").filter(Boolean);
+      const candidateId = pathParts[1];
+
+      if (["embed", "shorts", "live"].includes(pathParts[0]) && /^[a-zA-Z0-9_-]{11}$/.test(candidateId)) {
+        return { videoId: candidateId, params: embedParams.toString() };
+      }
+    }
+  } catch (error) {
+    return null;
+  }
+
+  return null;
+}
+
 function getPublicPathForSource(sourcePath) {
   const srcRoot = path.resolve("src");
   const absolutePath = path.resolve(sourcePath);
@@ -311,13 +372,30 @@ module.exports = function(eleventyConfig) {
       .join("\n");
   });
 
+  eleventyConfig.addShortcode("youtube", function(video, title = "YouTube video") {
+    const embedData = getYouTubeEmbedData(video);
+
+    if (!embedData) {
+      throw new Error(`Invalid YouTube video identifier or URL: ${video}`);
+    }
+
+    const { videoId, params } = embedData;
+    const embedSrc = `https://www.youtube-nocookie.com/embed/${videoId}${params ? `?${params}` : ""}`;
+
+    return [
+      `<div class="video-embed">`,
+      `<iframe src="${embedSrc}" title="${escapeHtmlAttribute(title)}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`,
+      `</div>`,
+    ].join("");
+  });
+
 
   // Filters
   eleventyConfig.addFilter("year", () => {
     return new Date().getFullYear();
   });
 
-  const md = new markdownIt()
+  const md = new markdownIt({ html: true })
     .use(obsidianImagePlugin)
     .use(markdownImageSizePlugin)
     .use(markdownFileLinkPlugin);

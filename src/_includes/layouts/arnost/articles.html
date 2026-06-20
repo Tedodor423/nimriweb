@@ -1,7 +1,7 @@
 {% addCSS "arnost/articles.css" %}
 
 <div class="articles-list">
-    {% for article in articles.arnost %}
+    {% for article in articles.arnost | sort(true, false, "date") %}
         <article>
             <a href="{{ article.url }}">
                 <h4>> {{ article.title }}</h2>

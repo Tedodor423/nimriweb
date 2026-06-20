@@ -52,10 +52,16 @@ body {
 body .content-wrapper main {
   margin-top: 10vh;
 }
-body .content-wrapper main iframe {
+
+.video-embed {
+  width: min(100%, 960px);
+  margin: 5rem auto 0;
+}
+.video-embed iframe {
   display: block;
-  margin: 0 auto;
-  margin-top: 5rem;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: 0;
 }
 
 a {
