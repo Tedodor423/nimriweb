@@ -3,6 +3,7 @@
 #cal-inline-call {
   width: min(calc(100% + 8rem), calc(100vw - 3rem));
   max-width: none;
+  padding-bottom: 0.75rem;
   position: relative;
   left: 50%;
   transform: translateX(-50%);

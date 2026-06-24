@@ -194,6 +194,7 @@ button.dark-toggle:hover {
 #cal-inline-call {
   width: min(100% + 8rem, 100vw - 3rem);
   max-width: none;
+  padding-bottom: 0.75rem;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
