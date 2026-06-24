@@ -32,6 +32,19 @@ Cal.config.forwardQueryParams = true;
     layout: "month_view"
   };
 
+  function isDarkModeActive() {
+    if (document.documentElement.classList.contains("dark-mode")) {
+      return true;
+    }
+
+    const storedTheme = localStorage.getItem("theme");
+    if (storedTheme !== null) {
+      return storedTheme == 1;
+    }
+
+    return window.matchMedia("(prefers-color-scheme: dark)").matches;
+  }
+
   function renderCalEmbed(isDarkMode) {
     if (!Cal?.ns?.call) {
       return;
@@ -60,7 +73,7 @@ Cal.config.forwardQueryParams = true;
     });
   }
 
-  renderCalEmbed(document.documentElement.classList.contains("dark-mode"));
+  renderCalEmbed(isDarkModeActive());
 
   window.addEventListener("themechange", function (event) {
     renderCalEmbed(Boolean(event.detail && event.detail.darkMode));
