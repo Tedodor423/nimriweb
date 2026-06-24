@@ -2,6 +2,7 @@
 title: 'David Theodor Nimrichtr'
 name: theo
 layout: 'layouts/theo/contact.html'
+collapsibleHeadings: false
 ---
 
 # contact
@@ -14,3 +15,7 @@ Want to collaborate, ask something, or just talk? Feel free to contact me at [t@
 
 I am also accessible as **tedodor423** on most social media.
 
+
+[![My Flightdiary.net profile](https://banners-my.flightradar24.com/tedodor423.png)](https://my.flightradar24.com/tedodor423)
+
+## Fancy a call? Select a time below

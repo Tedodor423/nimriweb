@@ -8,6 +8,7 @@ const path = require("path");
 //const matter = require('gray-matter');
 const markdownIt = require('markdown-it');
 const HEAD_MARK = "__HEAD_INJECT_MARKER__";
+const COLLAPSIBLE_HEADINGS_MARKER = "<!-- COLLAPSIBLE_HEADINGS_ENABLED -->";
 
 function toPosixPath(filePath) {
   return filePath.split(path.sep).join("/");
@@ -406,9 +407,9 @@ module.exports = function(eleventyConfig) {
     if (
       outputPath &&
       outputPath.endsWith(".html") &&
-      content.includes("heading-collapse-toggle")
+      content.includes(COLLAPSIBLE_HEADINGS_MARKER)
     ) {
-      return makeHeadingsCollapsible(content);
+      return makeHeadingsCollapsible(content.replace(COLLAPSIBLE_HEADINGS_MARKER, ""));
     }
 
     return content;

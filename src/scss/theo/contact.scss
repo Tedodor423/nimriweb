@@ -1,1 +1,9 @@
 @use "home.scss" as *;
+
+#cal-inline-call {
+  width: min(calc(100% + 8rem), calc(100vw - 3rem));
+  max-width: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}

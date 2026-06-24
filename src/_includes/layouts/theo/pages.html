@@ -1,7 +1,10 @@
 {% extends "layouts/_personal-base.html" %}
 
 {% addCSS "theo/home.css" %}
-{% addJS "collapsibleHeadings.js" %}
+{% if collapsibleHeadings != false %}
+  {% addJS "collapsibleHeadings.js" %}
+  <!-- COLLAPSIBLE_HEADINGS_ENABLED -->
+{% endif %}
 
 {% block pagecontent %}
 

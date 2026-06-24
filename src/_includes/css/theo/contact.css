@@ -191,4 +191,12 @@ button.dark-toggle:hover {
   margin: auto;
 }
 
+#cal-inline-call {
+  width: min(100% + 8rem, 100vw - 3rem);
+  max-width: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 /*# sourceMappingURL=contact.css.map */
