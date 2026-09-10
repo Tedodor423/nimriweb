@@ -7,7 +7,7 @@ collapsibleHeadings: false
 
 # contact
 
-I am currently in: **Oxford, UK**
+I am currently in: **Ruse, Bulgaria**
 
 Let's [connect on LinkedIn](https://www.linkedin.com/in/david-theodor-nimrichtr/)!
 
