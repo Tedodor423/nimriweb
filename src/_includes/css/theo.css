@@ -71,7 +71,7 @@ html {
 }
 
 html {
-  --col-background: $color-light;
+  --col-background: #fff;
   --col-text: #002147;
   --col-secondary: #CE2D4F;
 }
