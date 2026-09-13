@@ -7,7 +7,7 @@ collapsibleHeadings: false
 
 # contact
 
-I am currently in: **Szeged, Hungary**
+I am currently in: **Pardubice, Czechia**
 
 Let's [connect on LinkedIn](https://www.linkedin.com/in/david-theodor-nimrichtr/)!
 
