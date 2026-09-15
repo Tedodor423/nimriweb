@@ -7,7 +7,7 @@ collapsibleHeadings: false
 
 # contact
 
-I am currently in: **Czechia**
+I am currently in: **Agadir, Morocco**
 
 Let's [connect on LinkedIn](https://www.linkedin.com/in/david-theodor-nimrichtr/)!
 
