@@ -7,7 +7,7 @@ collapsibleHeadings: false
 
 # contact
 
-I am currently in: **Essaouira, Morocco**
+I am currently in: **Marrakech, Morocco**
 
 Let's [connect on LinkedIn](https://www.linkedin.com/in/david-theodor-nimrichtr/)!
 
