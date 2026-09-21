@@ -7,7 +7,7 @@ collapsibleHeadings: false
 
 # contact
 
-I am currently in: **Rabat, Morocco**
+I am currently in: **Oxford, United Kingdom**
 
 Let's [connect on LinkedIn](https://www.linkedin.com/in/david-theodor-nimrichtr/)!
 
