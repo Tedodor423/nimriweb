@@ -24,6 +24,10 @@ there are many other locations in the historical centre worth seeing, its **best
 
 there is so many interesting buildings and institutions in prague i cant name them all, just **when you see some monument or a nice building try searching it on google maps and wikipedia/chatgpt**, it may be some part of the University, a Theatre, Music hall, Bank, usually sth important
 
+### Cafés and spots to sit at
+
+Here are some nice cafés to see: [1](https://maps.app.goo.gl/P8HNjGuRnBHTMWfm8?g_st=ic), [2](https://maps.app.goo.gl/EVjofyR6ScnTqkq4A?g_st=ic), [3](https://maps.app.goo.gl/tgrPo5tY4TYjjw1s5?g_st=ic), [4](https://maps.app.goo.gl/sBTPe7vnoB1BsQMC8?g_st=ic), [5](https://maps.app.goo.gl/oQeixSDxP1aL1FTk9?g_st=ic), [6](https://maps.app.goo.gl/guC8TCt1dNfce3K87?g_st=ic)
+
 ## Wider Prague
 *most of these can be connected by walking and using the subway+tram+bus system*
 - ride the subway, mainly line A and B in the centre has some nice stations
