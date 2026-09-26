@@ -1,5 +1,5 @@
 ---
-title: 'David Theodor Nimrichtr - What to see in Czechie'
+title: 'David Theodor Nimrichtr - What to see in Czechia'
 name: theo
 layout: 'layouts/theo/pages.html'
 ---
