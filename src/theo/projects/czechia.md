@@ -17,16 +17,22 @@ there are many other locations in the historical centre worth seeing, its **best
 - Národní Třída (National Boulevard) street: start off with the national theatre (read its wiki page it has an interesting history of burning down and the entire nation donating money towards it twice), also Václav Havel square inside the modern theatre, then a lot of cafes and nice architecture across its entire length
 - Václavské náměstí (Venceslaus / Main square) - under reconstruction but you should see the beautiful national museum at its top (southeast end), it also has a lot of 'passages' = beautiful streets within the buildings, search for eg Pasáž Koruna, Pasáž Lucerna
 - Náměstí Republiky square - also a very nice area, nearby there is a new cool train station by Zaha Hadid
+- Týnský chrám (Church of Our Lady before Týn) - the iconic twin-spired church right on Old Town Square, definitely worth a look
 - explore the streets around the old town, at least between the aforementioned places
 - the whole Malá Strana quater on the west side of the river is worth exploring, although it can sometimes be uphill, there is so many palaces, government buildings, embassies, churches, all beautiful, make sure to checkout Valdštejn Gardens
 - then there is the castle, check out all of its public parts (you dont have to go to the expensive golden street), the huge cathedral and I would also recommend going in the gallery
 - behind the castle there are its beautiful Royal Gardens, you just neet to cross a bridge over the moat
+- Letohrádek královny Anny (Queen Anne's Summer Palace) and its Fíková zahrada (Fig Garden) - a lovely renaissance summer palace right by the Royal Gardens
 
 there is so many interesting buildings and institutions in prague i cant name them all, just **when you see some monument or a nice building try searching it on google maps and wikipedia/chatgpt**, it may be some part of the University, a Theatre, Music hall, Bank, usually sth important
 
 ### Cafés and spots to sit at
 
 Here are some nice cafés to see: [1](https://maps.app.goo.gl/P8HNjGuRnBHTMWfm8?g_st=ic), [2](https://maps.app.goo.gl/EVjofyR6ScnTqkq4A?g_st=ic), [3](https://maps.app.goo.gl/tgrPo5tY4TYjjw1s5?g_st=ic), [4](https://maps.app.goo.gl/sBTPe7vnoB1BsQMC8?g_st=ic), [5](https://maps.app.goo.gl/oQeixSDxP1aL1FTk9?g_st=ic), [6](https://maps.app.goo.gl/guC8TCt1dNfce3K87?g_st=ic)
+
+### Pubs
+
+A few traditional Prague pubs worth checking out: U Pinkasů, U Zpěváčků, U Vejvodů
 
 ## Wider Prague
 *most of these can be connected by walking and using the subway+tram+bus system*
