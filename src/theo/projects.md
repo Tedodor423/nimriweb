@@ -12,6 +12,7 @@ layout: 'layouts/theo/projects.html'
 *(stuff a lot of people ask me about)*
 - Learn how to **fundraise 300K for your studies abroad like me**: [Fundraising Guide](/projects/fundraising)
 - Are you planning to go to Czechia? [Czech Tourism Guide](/projects/czechia)
+- Starting at Oxford? Insider tips on everything from tutes to Spoons: [Oxford Student Guide](/projects/ox-student-guide)
 
 
 ## Research
