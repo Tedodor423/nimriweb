@@ -4,59 +4,13 @@ name: theo
 layout: 'layouts/theo/pages.html'
 ---
 
-# Oxford Student Guide
+# Oxford student guide
 
-Starting at Oxford comes with a whole new vocabulary (tutes, pidges, collections, Spoons…) and plenty of things nobody tells you in the official brochures. Before my first term, a freshers' WhatsApp community ("Oxford University Freshers 2025") posted a brilliant series of short explainers covering everything from libraries and gyms to balls, welfare support and the less glamorous sides of Oxford life.
+Some advice i collected from older students:
 
-I found them genuinely useful, so I've collected them here, nearly word for word, for anyone about to start (or thinking of applying). The credit goes to the community's organisers; the opinions are theirs, and some details (prices, opening hours) may have changed since 2025.
+## General tips
 
-Coming from Czechia or Slovakia and want help with funding your studies? Have a look at my [Fundraising Guide](/projects/fundraising) or get in [touch](/contact).
-
-## Oxford Botanic Garden is well worth a visit
-
-Opposite Magdalen College on the High Street, the garden has the Cherwell river winding past it making for a very pleasant visit on a summer's day.
-The best part is that you can get in for free with your BOD Card! Last entry is 4pm.
-https://obga.ox.ac.uk/visit-garden
-
-## 💪 Oxford Gyms – _which one is for you?_
-
-🏊 **Iffley Road Sports Centre** is Oxford’s official sports hub. It has a great pool and courts, but the gym itself is often busy and not the best equipped.
-
-🏫 If you’re lucky, your college might have a decent gym. Still, if you want to train with friends from outside your college, you’ll probably end up joining a gym in the city centre.
-
-🏋️ The two main student favourites are:
-
-**BuzzGym** (Westgate) – better equipment, but more expensive and busier
-
-**PureGym** (Westgate) – cheaper, still open 24/7, but keep an eye on changing room hours
-
-🌿 If you’re up in Summertown, there’s also the **Nuffield Gym** (not to be confused with the college in the centre). It has its own pools, gym, courts, steam room and sauna. The catch? Even the student rate will set you back £80+ a month 😲
-
-## ⛪ College Chapels and Choirs
-
-Almost every college has its own chapel, and many hold regular services such as Evensong. These are a big part of Oxford life and are worth experiencing at least once.
-
-🎶 Some chapels have highly competitive choirs that are among the best in the world. Attending a service means you get to enjoy world-class music in a beautiful, historic setting.
-
-🕯️ You don’t need to be religious to go. Many students attend for the quiet atmosphere, time to reflect, or simply to enjoy the music and tradition.
-
-✨ Whether you’re looking for a moment of calm, a way to connect with Oxford’s history, or just to hear some stunning choral singing, chapel services are open to all.
-
-You're not restricted to your colleges chapel service, you're free to attend any of the services, and so are members of the public. Plenty of students take their family when they visit.
-
-## 🌈 Plush Oxford
-
-Plush is Oxford’s only dedicated LGBTQ+ nightclub, and it’s a staple of the city’s nightlife. 🪩✨
-
-🎶 You’ll find student club nights, guest DJs, and themed events throughout the year. It’s especially popular with Oxford’s LGBTQ+ societies, but everyone is welcome.
-
-📍 Plush is located near Frewin Court (just off Cornmarket Street) right in the centre of the city.
-
-💡 It’s small compared to some clubs in other cities, but the atmosphere is friendly, inclusive, and usually packed on student nights.
-
-Insta: https://www.instagram.com/plushoxford/
-
-## 🛡️ Staying Safe in Oxford – Part 1
+#### 🛡️ Staying Safe in Oxford – Part 1
 
 💻 Online safety is just as important as staying safe around the city. A few quick tips:
 
@@ -67,7 +21,7 @@ Insta: https://www.instagram.com/plushoxford/
 
 ✅ When in doubt, forward suspicious emails to: phishing@infosec.ox.ac.uk
 
-## 🎓 Matriculation – what’s that all about?
+#### 🎓 Matriculation – what’s that all about?
 
 Matriculation is the ceremony that officially makes you a member of the University of Oxford. Until you matriculate, you are not formally recognised as a student.
 
@@ -77,7 +31,7 @@ Matriculation is the ceremony that officially makes you a member of the Universi
 
 The ceremony itself is short, but it is one of the traditions that makes Oxford unique. Many students look back on it as the moment their Oxford journey truly began.
 
-## 🏠 JCR / MCR – more than just a room
+#### 🏠 JCR / MCR – more than just a room
 
 Every Oxford college has a JCR (Junior Common Room) for undergraduates and an MCR (Middle Common Room) for postgraduates (sometimes it has a different name just as SCR). The name refers both to the student body and to the actual physical space.
 
@@ -87,63 +41,13 @@ Every Oxford college has a JCR (Junior Common Room) for undergraduates and an MC
 
 🤝 Whether you want to get involved in student politics, join in on social events, or just find a chill spot to hang out, the JCR or MCR is a big part of the Oxford experience.
 
-## 🥙 What’s this Najar’s everyone keeps talking about?
-
-Najar’s is one of Oxford’s most famous food spots. It is a small takeaway near St John's college that has earned legendary status among students.
-
-🌯 The menu is simple but beloved, with falafel wraps, salads, mezzes, and more, all made fresh and affordable.
-⏱ Opening hours are typically 8 am to 8 pm (sometimes until 9 pm), so it is not a late-night spot.
-👂 You will often hear “you want falafel?” as you pass a long queue of students waiting for their order.
-
-Chances are Najar’s will become a must-visit for a tasty daytime wrap.
-
-## 📚 Oxford Libraries – where can students go to study and do research?
-
-Oxford students have access to one of the most impressive library systems in the world. Here are the main types of libraries you can use:
-
-1️⃣ Bodleian Libraries
-There are more than 25 central Bodleian libraries, including the Old Bodleian, Radcliffe Camera, Weston Library, Radcliffe Science Library, Social Science Library, Taylor Institution, and many more. Your University card gives you access. Most are reference only, so you read and study inside rather than borrow.
-
-2️⃣ College libraries
-Every college has its own library, usually open late and stocked with the key books for your subject. These are the most convenient for daily studying if you're living at college. You need to be a member of the college to access (unless a member of the college takes you in).
-
-3️⃣ Faculty and department libraries
-These focus on specific subjects and are essential when you need more specialised resources.
-
-4️⃣ SOLO catalogue
-SOLO is the online search tool that covers Bodleian, college, and faculty libraries in one place.
-
-✨ Between these options, you will always find a place to study or the resources you need. Exploring different libraries is one of the best parts of Oxford life.
-
-## 🍻 When students say _“Spoons”_ they aren’t talking about the cutlery!
-
-In Oxford, “Spoons” means Wetherspoons, the budget-friendly pub chain that is hugely popular with students.
-
-💷 Cheap drinks and food make it a classic pre-drinks or casual dinner spot.
-📍 Oxford actually has two Spoons: The Four Candles on George Street and The Swan & Castle in Westgate.
-👯 You will often see big student groups there before nights out, or just enjoying a relaxed pint and some chips.
-
-It is also one of the few places where _town and gown_ mix. There is some history behind that which we will cover in a future post...
-
-It might not be glamorous, but Spoons is part of the Oxford student experience.
-
-## 🛍️ The Covered Market
-
-Right in the heart of Oxford, the Covered Market has been around since the 1770s and is still one of the city’s busiest spots.
-
-🥪 You’ll find student favourites like Brown’s Café, Pieminister, Sasi’s Thai, and the legendary Ben’s Cookies.
-🛒 There are also butchers, greengrocers, florists, and quirky gift shops, so it is not just for food.
-📸 It is one of the most photogenic parts of Oxford, with colourful stalls and old-world charm.
-
-Many students stop by for a cheap lunch, a snack between lectures, or just to wander through with friends. It is a classic Oxford hangout you will get to know well.
-
-## ⚠️ When Oxford experiences go bad
+#### ⚠️ When Oxford experiences go bad
 
 Oxford messaging to freshers often feels overly positive. Of course you should be proud to have gotten in, and excited to start your time here. But it is also important to know what to avoid if you want to increase your chances of having a good time.
 
 ✨ That is why we are starting a new series of insider tips on what to watch out for. Think of it as the things no one tells you in the brochures, shared so you can steer clear of the common pitfalls.
 
-## 🔥 When Oxford experiences go bad: Getting caught up in society or club drama
+#### 🔥 When Oxford experiences go bad: Getting caught up in society or club drama
 
 Societies and clubs are an important part of University life that you should engage in. However, this is also where a lot of the drama and issues students experience come from. Wherever you get people socialising you have the opportunity for drama, personality clashes, schemes, and the like.
 
@@ -165,7 +69,7 @@ You may be asking yourself why a scale of 1–10 if the political societies are 
 
 We've made effort to remove Oxford Union committee members from this community to keep you hack safe.
 
-## ⚠️ When Oxford experiences go bad: _Getting caught up in ideological extremes_
+#### ⚠️ When Oxford experiences go bad: _Getting caught up in ideological extremes_
 
 Oxford attracts some of the best and brightest students. That also makes impressionable young minds tempting targets for ideological groups looking to recruit new members.
 
@@ -177,7 +81,7 @@ Oxford attracts some of the best and brightest students. That also makes impress
 
 🌱 Many of you are in your first year of adulthood. Your views will grow and change as you gain life experience, and you do not want to get caught up in something you later regret.
 
-## 🚲 When Oxford experiences go bad: _Your nice bike will probably get stolen_
+#### 🚲 When Oxford experiences go bad: _Your nice bike will probably get stolen_
 
 Cycling is one of the best ways to get around Oxford, but bike theft is a constant problem. Even if you lock it up properly, thieves target expensive bikes and good locks are not always enough.
 
@@ -195,7 +99,7 @@ Even with precautions, theft is very common. Most students accept that an old, s
 
 👮 Expect the police to do nothing, even if you have CCTV or phone recordings of the person stealing your bike.
 
-## ⚠️ When Oxford experiences go bad: _Drug addicts vs homeless beggars_
+#### ⚠️ When Oxford experiences go bad: _Drug addicts vs homeless beggars_
 
 You will be targeted by people asking for money, particularly in the city centre and along Cowley Road. It helps to understand the different groups you may encounter:
 
@@ -212,7 +116,7 @@ Those who are genuinely homeless are usually found around Little Clarendon Stree
 
 Saying something like "I don't carry cash" is usually quite effective. If they threaten you please do not give in as it only encourages them to be aggressive to other people.
 
-## 😈 When Oxford experiences go bad: _The Sociopaths_
+#### 😈 When Oxford experiences go bad: _The Sociopaths_
 
 Elite institutions like Oxford are attractive to sociopaths for a variety of reasons. Status, connections, and opportunities to gain influence can all draw them in.
 
@@ -239,7 +143,7 @@ While good people find the Union’s toxic environment unbearable, sociopaths th
 
 ✨ Remember: most students you meet are genuine, kind, and supportive. But being aware of this pattern helps you protect yourself from the small minority who are not.
 
-## 💔 Welfare and support services
+#### 💔 Welfare and support services
 
 Whilst the Proctors have consistently shown themselves unfit for purpose, the University does try to make up for it through a wide range of welfare services that many students rely on.
 
@@ -257,7 +161,7 @@ Whilst the Proctors have consistently shown themselves unfit for purpose, the Un
 📝 Oxford SU Student Advice Service – independent advice on welfare, academic, and disciplinary issues
 🌙 Oxford Safe Haven – evening support service run by the NHS and Mind for people in crisis (no referral needed)
 
-## 🌟 Imposter Syndrome at Oxford
+#### 🌟 Imposter Syndrome at Oxford
 
 Almost every student at Oxford feels it at some point: “I don’t really belong here… they must have made a mistake admitting me”. You might even worry you will get an email saying it was all a mistake, or that if you slip up, break a rule, or get into trouble, you will be “found out” and kicked out. This is called imposter syndrome, and most people experience it.
 
@@ -273,30 +177,7 @@ Almost every student at Oxford feels it at some point: “I don’t really belon
 
 🤝 You deserve to be here. Oxford would not be the same without you. You need to work hard, but people make mistakes, and things happen in people lives, and the University is aware of that. You'll be just fine ☺️
 
-## 🏃 Oxford Runs
-
-Running is one of the best ways to clear your head and enjoy the beauty of Oxford. The city is full of scenic routes that take you past rivers, meadows, and historic colleges.
-
-🌳 Popular routes:
-
-* University Parks – flat paths and loops through greenery right in the city centre
-* Christ Church Meadow – a riverside run with iconic views of Oxford’s spires
-
-* Port Meadow – wide open space, perfect for longer runs with big skies and sunsets
-* South Park – good for hill training, with stunning skyline views at the top
-
-🏅 Parkrun takes place every Saturday at 9 am, and Oxford has two options:
-
-* University Parks parkrun – a central 5k route on South Parks Road
-* Oxford parkrun – in Cutteslowe and Sunnymead Park, north Oxford
-
-Both are free, timed 5k runs open to everyone, and they are a great way to meet fellow runners.
-
-👟 Many colleges have their own running clubs, and there are University-wide clubs if you want more structure or training partners.
-
-✨ Whether you are chasing a time, training for the Town and Gown 10k, or just looking for a mindful jog, Oxford is a runner’s paradise.
-
-## 🤝 Finding your people
+#### 🤝 Finding your people
 
 When people arrive at Oxford for the first time, it is natural to feel nervous about fitting in. Everyone takes a different approach to making friends.
 
@@ -324,22 +205,7 @@ In the first few weeks almost everyone is friendly and approachable. As time goe
 🌍 Enjoy the variety
 The beauty of Oxford is the mix of people you meet: from your college, your course, and the societies you join. Lean into that. Your future best friends may come from unexpected places.
 
-## 🍽️ Crewdate and Shoey explained
-
-_Crewdate_
-A crewdate is a loud, messy student social where two groups meet for food and drinks. Often it is sports teams or societies getting together. Expect lots of singing, drinking games, dares, and general chaos. The point is bonding and having fun, not a quiet dinner. If you don't like that sort of thing it's best to avoid it.
-
-_Shoey_
-A shoey is a drinking dare where someone pours alcohol into a shoe and drinks from it. It is a silly, gross stunt that sometimes happens at crewdates or sports socials. You do not have to take part. It is totally fine to sit it out and watch.
-
-⚠️ Quick tips
-
-* If you go to a crewdate, look after your friends and set boundaries about dares.
-* You don't have to give in to peer pressure.
-
-* If things get out of hand you can just leave.
-
-## 🚲 Cycling in Oxford explained
+#### 🚲 Cycling in Oxford explained
 
 _Cycling_
 Oxford is a city made for bikes. The streets are narrow, parking is limited, and most places you’ll need to go are just 5–10 minutes away. Many students pick up a cheap second-hand bike when they arrive (check Facebook groups, bike shops, or noticeboards). Rentals are also an option if you’re here short-term. If you’re lucky, your college might run its own bike scheme.
@@ -354,7 +220,7 @@ Always use a strong D-lock – bike theft is common. Stick to well-lit routes at
 
 * Cycling is usually the fastest and most convenient way around Oxford – totally worth it!
 
-## 🍷 Drinking at Oxford explained
+#### 🍷 Drinking at Oxford explained
 
 _Culture_
 A lot of Oxford social life involves alcohol. Pubs, college bars, crewdates, and balls often have drinking at the centre. For some students it’s a big part of the experience. But plenty of people don’t drink, and it’s completely possible to enjoy Oxford without it.
@@ -373,7 +239,7 @@ At big events like balls, drinking can get out of hand and ambulances are someti
 * Look for societies and spaces where drinking is not central.
 * The best connections come from people who respect your boundaries.
 
-## 🤯 FOMO at Oxford explained
+#### 🤯 FOMO at Oxford explained
 
 🙋 _Feeling left out_
 With so much happening in Oxford, from balls and formals to plays, concerts, talks and crewdates, it is impossible to do everything. Many students feel like they are constantly missing out, especially when their friends are posting about events they did not go to.
@@ -394,7 +260,7 @@ Focus on the events and people that matter most to you. A smaller number of mean
 
 Life will always have opportunities to go out and party, that can't be said for an Oxford degree. Have fun, but not at the expense of what really matters.
 
-## 🚫 How to throw away your Oxford opportunity
+#### 🚫 How to throw away your Oxford opportunity
 
 💊 _Drugs_
 Getting caught with illegal drugs can lead to disciplinary action, police involvement, or even expulsion. It is not worth the risk.
@@ -416,26 +282,7 @@ Cheating in exams, repeated plagiarism, or ignoring academic work can all jeopar
 * Have fun, but know your limits.
 * If you are struggling, there is support available. Use it early.
 
-## 🎉 Oxford Balls explained
-
-💃 _What they are_
-Balls are some of the biggest and most glamorous student events in Oxford. Colleges host them once every few years, ranging from smaller white tie affairs to huge themed nights with music, food, and entertainment until dawn.
-
-🥂 _The vibe_
-Think gowns, black tie or white tie, champagne on arrival, live bands, DJs, and fairground rides. There is food throughout the night, from three-course dinners to late-night bacon rolls. It is a surreal mix of elegance and chaos.
-
-💸 _The cost_
-Tickets are expensive, usually between £80 and £250 depending on the scale - but can go much higher. Guest tickets are even more. Sometimes you can pay extra to have a dinner at the start of the ball. You'll most likely end up going to some balls, so it's a good idea to get your black tie or gowns sorted well in advance as in the run up to a large ball high demand can make it hard to buy or hire.
-
-⚠️ Quick tips
-
-* Book early, tickets sell out fast (sometimes within seconds).
-* Plan your outfit in advance, especially if it is white tie.
-
-* Pace yourself with the drinking and the night. Ambulances at balls are sadly not rare.
-* Enjoy it. For some students, a ball is a once-in-a-degree experience.
-
-## 🗳️ The Oxford Union hack explained
+#### 🗳️ The Oxford Union hack explained
 
 🕴️ _What a hack is_
 At Oxford, a “hack” is someone who spends huge amounts of time networking, campaigning, and politicking within student societies. At the Union, hacks run for office, build alliances, and compete fiercely for committee roles.
@@ -456,25 +303,7 @@ The hacks create a toxic environment at the Union with backstabbing and rumour s
 
 * If you are not a member, hacks will leave you alone. It is like you do not exist, which is often a blessing.
 
-## 🍦 G&D’s Ice Cream explained
-
-🏠 _What it is_
-G&D’s is an Oxford institution. Started by students in the 1990s, it has grown into a small local chain with a few cafés around the city. Each has a cosy, slightly chaotic vibe that students love.
-
-🍨 _Why it matters_
-The ice cream is homemade with loads of flavours that change regularly. They also do bagels, cakes, milkshakes and coffee, so it is more than just a dessert stop.
-
-🌙 _When to go_
-Open late into the night, G&D’s is the perfect spot after an evening in the library, post-formal, or just for a late hangout with friends.
-
-⚠️ _Quick tips_
-
-* Expect queues during peak hours, especially in summer.
-* Go with friends, it is a very social spot.
-
-* Try a few flavours, they are generous with tasters.
-
-## 🐀 The Rats of Oxford explained
+#### 🐀 The Rats of Oxford explained
 
 🏙️ _Where you see them_
 Rats are part of city life in Oxford, just like in any old university town. You might spot them near bins, by the river, or late at night around college grounds.
@@ -496,7 +325,7 @@ Oxford rats cannot resist music. If you feel like starting a rodent parade, try 
 * Remember they are a nuisance, but also a normal part of urban living.
 * Don't worry if they don't respond to your music at first, practise makes perfect
 
-## 🔵 What is an Oxford Blue?
+#### 🔵 What is an Oxford Blue?
 
 🏅 _The award_
 An Oxford Blue is one of the highest honours in Oxford sport. It is given to students who represent the University in top-level Varsity competitions against Cambridge.
@@ -517,7 +346,7 @@ Blues sport is steeped in tradition, with Varsity matches going back to the 1800
 More details are here:
 https://www.sport.ox.ac.uk/blues-awards
 
-## 🗝️ Porters explained
+#### 🗝️ Porters explained
 
 👮 _Who they are_
 Porters are the staff who look after the entrances, lodge, and general running of your college. They know everyone, keep the place secure, and often have decades of Oxford experience.
@@ -536,26 +365,7 @@ Porters can make your life much easier. They will help you out of awkward situat
 * If you are in trouble or need help, the lodge is the best place to go.
 * A good relationship with the Porters will make your whole college experience smoother.
 
-## 🎡 May Morning explained
-
-🌅 _What it is_
-May Morning is one of Oxford’s most famous traditions. At dawn on 1 May, crowds gather on Magdalen Bridge to hear the Magdalen College choir sing from the top of the tower. The celebration marks the arrival of spring.
-
-🍻 _The vibe_
-It is part magical, part chaotic. Thousands of students and locals turn out. Some stay up all night from parties, others wake up early just for the event. Pubs open at 6 am, bands play in the streets, and the whole city feels alive.
-
-🏊 _The jump_
-In past years, some students leapt from Magdalen Bridge into the river. It became a tradition, though now it is strongly discouraged for safety reasons. The Cherwell is shallow, and people have been injured. These days, police and barriers usually prevent it.
-
-⚠️ _Quick tips_
-
-* Expect huge crowds, so plan how you will get home.
-* If you want a good spot, arrive before dawn.
-
-* Do not jump off the bridge, it is genuinely dangerous.
-* Embrace the weirdness. It is one of the most unique Oxford experiences.
-
-## 📚 Collections explained
+#### 📚 Collections explained
 
 📝 _What they are_
 Collections are exams that most students sit at the start of each term. They usually test the work from the previous term and give tutors a sense of how you are doing.
@@ -574,7 +384,7 @@ Because they fall right after the vacation, many students do not revise as much 
 * Use feedback as a guide for where to focus your effort.
 * Treat them as a practice run for the real exams later on.
 
-## 🧑‍🎓 Tutorials explained
+#### 🧑‍🎓 Tutorials explained
 
 📚 _What they are_
 Tutorials, or “tutes,” are the heart of Oxford teaching. They are small classes, often just you and one or two other students, discussing your essay or problem sheet with a tutor who is an expert in the field.
@@ -593,7 +403,7 @@ It is normal to feel nervous, especially early on. The key is preparation and ho
 * Listen carefully to feedback, it will shape your progress.
 * Try to enjoy them. Tutorials are what make Oxford unique.
 
-## 📬 Pigeonholes explained
+#### 📬 Pigeonholes explained
 
 📦 _What they are_
 Every student in Oxford has a pigeonhole, or “pidge,” at their college. It is a small mail slot where you receive letters, parcels, and the occasional mysterious flyer.
@@ -611,3 +421,193 @@ You might find official college letters, Amazon parcels, essays returned by tuto
 
 * If you receive something that is not yours, hand it back rather than investigating.
 * Do not try to fit anything too big into someone’s pidge, it will get stuck and cause chaos.
+
+## What to do
+
+#### Oxford Botanic Garden is well worth a visit
+
+Opposite Magdalen College on the High Street, the garden has the Cherwell river winding past it making for a very pleasant visit on a summer's day.
+The best part is that you can get in for free with your BOD Card! Last entry is 4pm.
+https://obga.ox.ac.uk/visit-garden
+
+#### 💪 Oxford Gyms – _which one is for you?_
+
+🏊 **Iffley Road Sports Centre** is Oxford’s official sports hub. It has a great pool and courts, but the gym itself is often busy and not the best equipped.
+
+🏫 If you’re lucky, your college might have a decent gym. Still, if you want to train with friends from outside your college, you’ll probably end up joining a gym in the city centre.
+
+🏋️ The two main student favourites are:
+
+**BuzzGym** (Westgate) – better equipment, but more expensive and busier
+
+**PureGym** (Westgate) – cheaper, still open 24/7, but keep an eye on changing room hours
+
+🌿 If you’re up in Summertown, there’s also the **Nuffield Gym** (not to be confused with the college in the centre). It has its own pools, gym, courts, steam room and sauna. The catch? Even the student rate will set you back £80+ a month 😲
+
+#### ⛪ College Chapels and Choirs
+
+Almost every college has its own chapel, and many hold regular services such as Evensong. These are a big part of Oxford life and are worth experiencing at least once.
+
+🎶 Some chapels have highly competitive choirs that are among the best in the world. Attending a service means you get to enjoy world-class music in a beautiful, historic setting.
+
+🕯️ You don’t need to be religious to go. Many students attend for the quiet atmosphere, time to reflect, or simply to enjoy the music and tradition.
+
+✨ Whether you’re looking for a moment of calm, a way to connect with Oxford’s history, or just to hear some stunning choral singing, chapel services are open to all.
+
+You're not restricted to your colleges chapel service, you're free to attend any of the services, and so are members of the public. Plenty of students take their family when they visit.
+
+#### 🌈 Plush Oxford
+
+Plush is Oxford’s only dedicated LGBTQ+ nightclub, and it’s a staple of the city’s nightlife. 🪩✨
+
+🎶 You’ll find student club nights, guest DJs, and themed events throughout the year. It’s especially popular with Oxford’s LGBTQ+ societies, but everyone is welcome.
+
+📍 Plush is located near Frewin Court (just off Cornmarket Street) right in the centre of the city.
+
+💡 It’s small compared to some clubs in other cities, but the atmosphere is friendly, inclusive, and usually packed on student nights.
+
+Insta: https://www.instagram.com/plushoxford/
+
+#### 🥙 What’s this Najar’s everyone keeps talking about?
+
+Najar’s is one of Oxford’s most famous food spots. It is a small takeaway near St John's college that has earned legendary status among students.
+
+🌯 The menu is simple but beloved, with falafel wraps, salads, mezzes, and more, all made fresh and affordable.
+⏱ Opening hours are typically 8 am to 8 pm (sometimes until 9 pm), so it is not a late-night spot.
+👂 You will often hear “you want falafel?” as you pass a long queue of students waiting for their order.
+
+Chances are Najar’s will become a must-visit for a tasty daytime wrap.
+
+#### 📚 Oxford Libraries – where can students go to study and do research?
+
+Oxford students have access to one of the most impressive library systems in the world. Here are the main types of libraries you can use:
+
+1️⃣ Bodleian Libraries
+There are more than 25 central Bodleian libraries, including the Old Bodleian, Radcliffe Camera, Weston Library, Radcliffe Science Library, Social Science Library, Taylor Institution, and many more. Your University card gives you access. Most are reference only, so you read and study inside rather than borrow.
+
+2️⃣ College libraries
+Every college has its own library, usually open late and stocked with the key books for your subject. These are the most convenient for daily studying if you're living at college. You need to be a member of the college to access (unless a member of the college takes you in).
+
+3️⃣ Faculty and department libraries
+These focus on specific subjects and are essential when you need more specialised resources.
+
+4️⃣ SOLO catalogue
+SOLO is the online search tool that covers Bodleian, college, and faculty libraries in one place.
+
+✨ Between these options, you will always find a place to study or the resources you need. Exploring different libraries is one of the best parts of Oxford life.
+
+#### 🍻 When students say _“Spoons”_ they aren’t talking about the cutlery!
+
+In Oxford, “Spoons” means Wetherspoons, the budget-friendly pub chain that is hugely popular with students.
+
+💷 Cheap drinks and food make it a classic pre-drinks or casual dinner spot.
+📍 Oxford actually has two Spoons: The Four Candles on George Street and The Swan & Castle in Westgate.
+👯 You will often see big student groups there before nights out, or just enjoying a relaxed pint and some chips.
+
+It is also one of the few places where _town and gown_ mix. There is some history behind that which we will cover in a future post...
+
+It might not be glamorous, but Spoons is part of the Oxford student experience.
+
+#### 🛍️ The Covered Market
+
+Right in the heart of Oxford, the Covered Market has been around since the 1770s and is still one of the city’s busiest spots.
+
+🥪 You’ll find student favourites like Brown’s Café, Pieminister, Sasi’s Thai, and the legendary Ben’s Cookies.
+🛒 There are also butchers, greengrocers, florists, and quirky gift shops, so it is not just for food.
+📸 It is one of the most photogenic parts of Oxford, with colourful stalls and old-world charm.
+
+Many students stop by for a cheap lunch, a snack between lectures, or just to wander through with friends. It is a classic Oxford hangout you will get to know well.
+
+#### 🏃 Oxford Runs
+
+Running is one of the best ways to clear your head and enjoy the beauty of Oxford. The city is full of scenic routes that take you past rivers, meadows, and historic colleges.
+
+🌳 Popular routes:
+
+* University Parks – flat paths and loops through greenery right in the city centre
+* Christ Church Meadow – a riverside run with iconic views of Oxford’s spires
+
+* Port Meadow – wide open space, perfect for longer runs with big skies and sunsets
+* South Park – good for hill training, with stunning skyline views at the top
+
+🏅 Parkrun takes place every Saturday at 9 am, and Oxford has two options:
+
+* University Parks parkrun – a central 5k route on South Parks Road
+* Oxford parkrun – in Cutteslowe and Sunnymead Park, north Oxford
+
+Both are free, timed 5k runs open to everyone, and they are a great way to meet fellow runners.
+
+👟 Many colleges have their own running clubs, and there are University-wide clubs if you want more structure or training partners.
+
+✨ Whether you are chasing a time, training for the Town and Gown 10k, or just looking for a mindful jog, Oxford is a runner’s paradise.
+
+#### 🍽️ Crewdate and Shoey explained
+
+_Crewdate_
+A crewdate is a loud, messy student social where two groups meet for food and drinks. Often it is sports teams or societies getting together. Expect lots of singing, drinking games, dares, and general chaos. The point is bonding and having fun, not a quiet dinner. If you don't like that sort of thing it's best to avoid it.
+
+_Shoey_
+A shoey is a drinking dare where someone pours alcohol into a shoe and drinks from it. It is a silly, gross stunt that sometimes happens at crewdates or sports socials. You do not have to take part. It is totally fine to sit it out and watch.
+
+⚠️ Quick tips
+
+* If you go to a crewdate, look after your friends and set boundaries about dares.
+* You don't have to give in to peer pressure.
+
+* If things get out of hand you can just leave.
+
+#### 🎉 Oxford Balls explained
+
+💃 _What they are_
+Balls are some of the biggest and most glamorous student events in Oxford. Colleges host them once every few years, ranging from smaller white tie affairs to huge themed nights with music, food, and entertainment until dawn.
+
+🥂 _The vibe_
+Think gowns, black tie or white tie, champagne on arrival, live bands, DJs, and fairground rides. There is food throughout the night, from three-course dinners to late-night bacon rolls. It is a surreal mix of elegance and chaos.
+
+💸 _The cost_
+Tickets are expensive, usually between £80 and £250 depending on the scale - but can go much higher. Guest tickets are even more. Sometimes you can pay extra to have a dinner at the start of the ball. You'll most likely end up going to some balls, so it's a good idea to get your black tie or gowns sorted well in advance as in the run up to a large ball high demand can make it hard to buy or hire.
+
+⚠️ Quick tips
+
+* Book early, tickets sell out fast (sometimes within seconds).
+* Plan your outfit in advance, especially if it is white tie.
+
+* Pace yourself with the drinking and the night. Ambulances at balls are sadly not rare.
+* Enjoy it. For some students, a ball is a once-in-a-degree experience.
+
+#### 🍦 G&D’s Ice Cream explained
+
+🏠 _What it is_
+G&D’s is an Oxford institution. Started by students in the 1990s, it has grown into a small local chain with a few cafés around the city. Each has a cosy, slightly chaotic vibe that students love.
+
+🍨 _Why it matters_
+The ice cream is homemade with loads of flavours that change regularly. They also do bagels, cakes, milkshakes and coffee, so it is more than just a dessert stop.
+
+🌙 _When to go_
+Open late into the night, G&D’s is the perfect spot after an evening in the library, post-formal, or just for a late hangout with friends.
+
+⚠️ _Quick tips_
+
+* Expect queues during peak hours, especially in summer.
+* Go with friends, it is a very social spot.
+
+* Try a few flavours, they are generous with tasters.
+
+#### 🎡 May Morning explained
+
+🌅 _What it is_
+May Morning is one of Oxford’s most famous traditions. At dawn on 1 May, crowds gather on Magdalen Bridge to hear the Magdalen College choir sing from the top of the tower. The celebration marks the arrival of spring.
+
+🍻 _The vibe_
+It is part magical, part chaotic. Thousands of students and locals turn out. Some stay up all night from parties, others wake up early just for the event. Pubs open at 6 am, bands play in the streets, and the whole city feels alive.
+
+🏊 _The jump_
+In past years, some students leapt from Magdalen Bridge into the river. It became a tradition, though now it is strongly discouraged for safety reasons. The Cherwell is shallow, and people have been injured. These days, police and barriers usually prevent it.
+
+⚠️ _Quick tips_
+
+* Expect huge crowds, so plan how you will get home.
+* If you want a good spot, arrive before dawn.
+
+* Do not jump off the bridge, it is genuinely dangerous.
+* Embrace the weirdness. It is one of the most unique Oxford experiences.
