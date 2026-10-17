@@ -8,6 +8,56 @@
 {{ text.intro | md | safe }}
 </div>
 
+{% if events %}
+<div id="events-upcoming">
+<h2>Nadcházející akce</h2>
+<div class="events-list">
+{% for event in events %}
+<div class="event" data-start="{{ event.start }}">
+<p><strong>{{ event.title }}</strong><br>
+📅 {{ event.date_text }}<br>
+📍 {{ event.place }}</p>
+{% if event.description %}<p>{{ event.description }}</p>{% endif %}
+{% if event.link %}<p><a href="{{ event.link }}">{{ event.link_text or "Více informací o akci" }}</a></p>{% endif %}
+</div>
+{% endfor %}
+</div>
+</div>
+
+<div id="events-past">
+<h2>Proběhlé akce</h2>
+<div class="events-list"></div>
+</div>
+
+<hr>
+
+<script>
+/* akce, které už skončily (3 hodiny po začátku), se přesunou z nadcházejících do proběhlých */
+(function () {
+    var upcoming = document.querySelector("#events-upcoming .events-list");
+    var past = document.querySelector("#events-past .events-list");
+    var now = Date.now();
+    var duration = 3 * 60 * 60 * 1000;
+    var events = Array.from(upcoming.querySelectorAll(".event"));
+
+    events.sort(function (a, b) {
+        return new Date(a.dataset.start) - new Date(b.dataset.start);
+    });
+
+    events.forEach(function (event) {
+        if (new Date(event.dataset.start).getTime() + duration < now) {
+            past.insertBefore(event, past.firstChild);
+        } else {
+            upcoming.appendChild(event);
+        }
+    });
+
+    if (!upcoming.children.length) document.getElementById("events-upcoming").hidden = true;
+    if (!past.children.length) document.getElementById("events-past").hidden = true;
+})();
+</script>
+{% endif %}
+
 {{content | safe}}
 
 {% include "layouts/arnost/articles.html" %}

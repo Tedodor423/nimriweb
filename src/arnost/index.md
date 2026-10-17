@@ -6,32 +6,32 @@ text:
     intro: |
         # Arnošt Matěj Nimrichtr
     bio: "klavír, technika, aktivní občanství"
+# Akce: po skončení (3 h po začátku) se samy přesunou z "Nadcházející" do "Proběhlé".
+# start = začátek akce s časovým pásmem (+02:00 letní čas v ČR, +01:00 zimní čas v ČR).
+events:
+    - title: 'Koncert a beseda „Arnošt v Carnegie Hall"'
+      start: '2026-10-22T17:30:00+02:00'
+      date_text: 'čtvrtek 22. 10. 2026 v 17:30'
+      place: 'Koncertní sál ZUŠ, Havlíčkova 925, Pardubice'
+      description: 'Arnošt zahraje a bude vyprávět o svém letním vystoupení v Carnegie Hall v New Yorku. Vstup je otevřený pro širokou veřejnost.'
+      link: 'https://www.zuspcehav.cz/akce-pro-verejnost/kalendar-akci/skn-koncert-a-beseda-arnost-v-carnegie-hall-165_47cs.html'
+    - title: 'Koncert pro radost'
+      start: '2026-11-12T18:00:00+01:00'
+      date_text: 'čtvrtek 12. 11. 2026 v 18:00'
+      place: 'Malý sál Domu hudby, Pardubice'
+      description: 'Koncert žáků hudebního oboru ZUŠ Pardubice, Havlíčkova.'
+      link: 'https://www.zuspcehav.cz/akce-pro-verejnost/kalendar-akci/koncert-pro-radost-175_55cs.html'
+    - title: 'Koncert vítězů AVIMC v Carnegie Hall'
+      start: '2026-07-21T19:00:00-04:00'
+      date_text: 'úterý 21. 7. 2026 v 19:00'
+      place: 'Carnegie Hall, New York'
+      description: 'Arnošt vystoupil na koncertě vítězů mezinárodní soutěže AVIMC jako odměna za první cenu.'
+      link: 'https://www.carnegiehall.org/Calendar/2026/07/21/The-AVIMC-Winners-Recital-0700PM'
+      link_text: 'Koncert v programu Carnegie Hall'
 ---
 
 
 
-
-## Nadcházející akce
-
-**Koncert a beseda „Arnošt v Carnegie Hall"**<br>
-📅 čtvrtek 22. 10. 2026 v 17:30<br>
-📍 Koncertní sál ZUŠ, Havlíčkova 925
-
-Arnošt zahraje a bude vyprávět o svém letním vystoupení v Carnegie Hall v New Yorku. Vstup je otevřený pro širokou veřejnost.
-
-[Více informací o akci](https://www.zuspcehav.cz/akce-pro-verejnost/kalendar-akci/skn-koncert-a-beseda-arnost-v-carnegie-hall-165_47cs.html)
-
-## Proběhlé akce
-
-**Koncert vítězů AVIMC v Carnegie Hall**<br>
-📅 úterý 21. 7. 2026 v 19:00<br>
-📍 Carnegie Hall, New York
-
-Arnošt vystoupil na koncertě vítězů mezinárodní soutěže AVIMC jako odměna za první cenu.
-
-[Koncert v programu Carnegie Hall](https://www.carnegiehall.org/Calendar/2026/07/21/The-AVIMC-Winners-Recital-0700PM)
-
-<hr>
 
 ## O mně
 
