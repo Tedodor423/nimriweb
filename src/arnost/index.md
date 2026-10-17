@@ -28,6 +28,24 @@ events:
       description: 'Arnošt vystoupil na koncertě vítězů mezinárodní soutěže AVIMC jako odměna za první cenu.'
       link: 'https://www.carnegiehall.org/Calendar/2026/07/21/The-AVIMC-Winners-Recital-0700PM'
       link_text: 'Koncert v programu Carnegie Hall'
+# Další články k "Vybraným článkům" (přidávají se k těm ve společném src/_data/articles.json).
+more_articles:
+    - site: 'Klasika Plus'
+      title: 'Marie Balounová absolutní vítězkou páté soutěže Antonín Dvořák mladým'
+      date: '2025-12-08'
+      url: 'https://www.klasikaplus.cz/marie-balounova-absolutni-vitezkou-pate-souteze-antonin-dvorak-mladym/'
+    - site: 'Klasika Plus'
+      title: 'Talentovaní klavíristé se shromáždí na Pražské konzervatoři'
+      date: '2025-11-18'
+      url: 'https://www.klasikaplus.cz/talentovani-klaviriste-se-shromazdi-na-prazske-konzervatori/'
+    - site: 'Klasika Plus'
+      title: 'Více než slibné výkony na Broumovské klávese'
+      date: '2024-05-06'
+      url: 'https://www.klasikaplus.cz/vice-nez-slibne-vykony-na-broumovske-klavese/'
+    - site: 'Klasika Plus'
+      title: 'Mentoři i stipendisté MenART na dramaturgicky pestré hudební odyseji'
+      date: '2023-10-03'
+      url: 'https://www.klasikaplus.cz/mentori-i-stipendiste-menart-na-dramaturgicky-pestre-hudebni-odyseji/'
 ---
 
 
