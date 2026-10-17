@@ -11,6 +11,18 @@ text:
 
 
 
+## Nadcházející akce
+
+**Koncert a beseda „Arnošt v Carnegie Hall"**<br>
+📅 čtvrtek 22. 10. 2026 v 17:30<br>
+📍 Koncertní sál ZUŠ, Havlíčkova 925
+
+Arnošt zahraje a bude vyprávět o svém letním vystoupení v Carnegie Hall v New Yorku. Vstup je otevřený pro širokou veřejnost.
+
+[Více informací o akci](https://www.zuspcehav.cz/akce-pro-verejnost/kalendar-akci/skn-koncert-a-beseda-arnost-v-carnegie-hall-165_47cs.html)
+
+<hr>
+
 ## O mně
 
 Arnošt patří k nejúspěšnějším mladým pianistům v ČR. V roce 2026 **vystoupí na pódiu v Carnegie Hall v New Yorku** a minulý rok vystoupil v divadle Curci Theatre v italské Barlettě - obojí jako odměna za **první ceny v mezinárodních soutěžích** AVIMC a Città di Barletta. Je mj. **vítězem ústředního kola soutěží ZUŠ 2024** a **vítězem celostátní soutěže Dvořák mladým 2025**. Absolvoval stipendijní akademie MenART Academy Kroměříž pod vedením **ředitele Pražské konzervatoře Ivo Kahánka**.
