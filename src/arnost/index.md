@@ -24,10 +24,12 @@ Arnošt zahraje a bude vyprávět o svém letním vystoupení v Carnegie Hall v 
 ## Proběhlé akce
 
 **Koncert vítězů AVIMC v Carnegie Hall**<br>
-📅 červenec 2026<br>
+📅 úterý 21. 7. 2026 v 19:00<br>
 📍 Carnegie Hall, New York
 
 Arnošt vystoupil na koncertě vítězů mezinárodní soutěže AVIMC jako odměna za první cenu.
+
+[Koncert v programu Carnegie Hall](https://www.carnegiehall.org/Calendar/2026/07/21/The-AVIMC-Winners-Recital-0700PM)
 
 <hr>
 
