@@ -16,9 +16,9 @@ layout: 'layouts/theo/projects.html'
 
 
 ## Research
-- Co-founder and Leader of the team representing Oxford University at [iGEM](https://competition.igem.org), **the world's largest genetic competition**. We are **engineering bacteria inside the bee gut to eradicate varroa mite and deformed wing virus infections (costing $billions annually)**. **View our [Pitch Deck](../assets/projects/Pitch%20deck%20iGEM%20Ox26.pdf)** and get in touch if you want to support us!
+- Co-founder and Leader of the team representing Oxford University at [iGEM](https://competition.igem.org), **the world's largest genetic competition**. Our project **[NECTAR](https://2026.igem.wiki/oxford/)** engineers **bacteria inside the bee gut to eradicate varroa mite and deformed wing virus infections (costing $billions annually)**, and achieved **Oxford's best-ever result in the competition**. See the [wiki](https://2026.igem.wiki/oxford/) or our original [Pitch Deck](../assets/projects/Pitch%20deck%20iGEM%20Ox26.pdf).
 
-[![igem](../assets/projects/igem.png|400)](../assets/projects/Pitch%20deck%20iGEM%20Ox26.pdf)
+[![Oxford iGEM 2026 team](../assets/projects/igem-team.jpg|500)](https://2026.igem.wiki/oxford/)
 
 
 
@@ -26,7 +26,11 @@ layout: 'layouts/theo/projects.html'
 ![scRNA UMAP of T cell state](../assets/projects/umap.png|400)
 
 ## Non-profits
-- **Co-founded** a **[scholarship programme](https://oxbridgestipendium.org) supporting Czechs/Slovaks going to prestigious universities**. By connecting with and convincing wealthy sponsors to support our students (the same way I did it), we **already have 6 students going to Oxbridge that would otherwise not be able to - fundraised about £220K** since January 2026. Also in the process of **lobbying our government to create a wider student loan system** (there is nothing like that rn). I have been featured in the media a bit for this (Forbes, national TV).
+- **Co-founded** a **[scholarship programme](https://oxbridgestipendium.org) supporting Czechs/Slovaks going to prestigious universities**. By connecting with and convincing wealthy sponsors to support our students (the same way I did it), we **already have 6 students going to Oxbridge that would otherwise not be able to - fundraised over £250K** since January 2026. Also in the process of **lobbying our government to create a wider student loan system** (there is nothing like that rn). I have been featured in the media a bit for this (Forbes, national TV).
+
+- **Co-hosted a debate with former Slovak President [Zuzana Čaputová](https://en.wikipedia.org/wiki/Zuzana_%C4%8Caputov%C3%A1)** and the annual black-tie **Velvet Revolution commemoration Dinner** of the Oxford University Czech & Slovak Society, 37 years after November 1989. It was **the biggest Velvet Dinner ever, with 250 guests** (alumni, friends and honoured invitees) at my college, Lady Margaret Hall. It clashed with the iGEM conference in Paris, where my team presented the day before and after, so I flew Paris → Oxford → Paris just for the night, ran from the airport straight to welcome the President, and left again at 4am. Worth it.
+![velvet night](../assets/projects/velvet-night.jpg|500)
+![with Zuzana Čaputová](../assets/projects/velvet-caputova.jpg|300)
 
 - **Presided** and otherwise volunteered within the [European Youth Parliament CZ](https://eyp.cz/en/events/), an NGO engaging **over 1500 students from  across Europe annually in physical events**. I **led the organisation of about 100 volunteers, written €200 000+ worth of succesful grant applications** (Erasmus+, national ministries, companies) and did **legal and financial management like accounting/tax records, contracts, communicating with governments and large companies** (and also travelled around the world to various conferences while doing so).
 ![eyp](../assets/projects/eyp.png|500)
